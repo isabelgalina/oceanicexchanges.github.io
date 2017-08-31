@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Oceanic Exchanges
+title: Oceanic Exchanges: Tracing Global Information Networks In Historical Newspaper Repositories, 1840-1914
 
 # Short description of your site
 description: A Digging Into Data project tracing global information networks in historical newspaper repositories, 1840-1914
@@ -27,7 +27,7 @@ navbar-links:
   Project Links:
     - Digging Into Data: "https://diggingintodata.org/"
     - Viral Texts: "http://viraltexts.org/"
-  OcEx Data: "https://github.com/OceanicExchanges"
+  Data: "https://github.com/OceanicExchanges"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
