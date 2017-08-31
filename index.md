@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Oceanic Exchanges
-subtitle: A [Digging Into Data](https://diggingintodata.org/) Project
+subtitle: A Digging Into Data Project
 ---
 
 Oceanic Exchanges (OcEx) aims to tracing global information networks in historical newspaper repositories, 1840-1914. The project was funded through the [Transatlantic Partnership for Social Sciences and Humanities 2016 Digging Into Data Challenge](https://diggingintodata.org/awards/2016/project/oceanic-exchanges-tracing-global-information-networks-historical-newspaper).
