@@ -23,6 +23,7 @@ description: A Digging Into Data project tracing global information networks in 
 
 # List of links in the navigation bar
 navbar-links:
+  About: "about"
   Team: "team"
   Data: "https://github.com/OceanicExchanges"
   Project Links:
