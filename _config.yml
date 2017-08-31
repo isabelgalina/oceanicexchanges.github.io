@@ -26,7 +26,7 @@ navbar-links:
   News: "news.html"
   Team: "team"
   Project Links:
-  	- Associated Projects: "associated-projects"
+  	#- Associated Projects: "associated-projects"
     - Digging Into Data: "https://diggingintodata.org/"
   Data: "https://github.com/OceanicExchanges"
 
