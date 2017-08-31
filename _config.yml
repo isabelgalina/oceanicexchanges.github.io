@@ -23,10 +23,11 @@ description: A Digging Into Data project tracing global information networks in 
 
 # List of links in the navigation bar
 navbar-links:
-  About OcEx: "aboutOE"
+  News: "news.html"
+  Team: "team"
   Project Links:
+  	- Associated Projects: "associated-projects"
     - Digging Into Data: "https://diggingintodata.org/"
-    - Viral Texts: "http://viraltexts.org/"
   Data: "https://github.com/OceanicExchanges"
 
 # Image to show in the navigation bar - image must be a square (width = height)

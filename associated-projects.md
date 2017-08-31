@@ -1,6 +1,6 @@
 ---
 layout: page
-title: OcEx Team
+title: Associated Projects
 ---
 
 # Our Project Team
