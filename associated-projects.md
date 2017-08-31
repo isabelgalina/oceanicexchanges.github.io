@@ -1,60 +1,36 @@
 ---
 layout: page
 title: Associated Projects
+subtitle: Previous and Related Projects Involving OcEx Researchers
 ---
 
-# Our Project Team
+### Nederland
 
-Oceanic Exchanges brings together a consortium of cultural historians, computational linguists, literary scholars, digital curators and humanists, and computer scientists who each bring skills from [previous successful projects](http://oceanicexchanges.org/associated-projects/).
++ [Translantis: The Emergence of the United States as a Reference Culture in Public Discourse in the Netherlands, 1890-1990 (NWO, 2013–2018)](http://translantis.wp.hum.uu.nl/)
++ [Asymmetrical Encounters: Digital Approaches to Reference Cultures in Europe, 1800—2000 (HERA, 2013–2016)](http://www.asymenc.eu/)
 
-# Primary Contacts
+### Suomi
 
-+ **[Ryan Cordell](mailto:r.cordell@northeastern.edu) (OcEx Project Director)** - Assistant Professor of English in the NULab for Texts, Maps, and Networks, *Northeastern University*
-+ **[Lara Rose](mailto:roberts.l@husky.neu.edu) (Assistant Project Manager)** - PhD Student, *Northeastern University*
++ [Travelling Notions of Culture: Itineraries of Bildung and Civilisation in Early Nineteenth-Century Europe (Academy of Finland, 2012–2016)](https://www.utu.fi/fi/yksikot/hum/yksikot/kulttuurihistoria/tutkimus/Sivut/travelling_notions_of_culture.aspx)
++ [Computational History and the Transformation of Public Discourse in Finland, 1640–1910 (Academy of Finland, 2016–2019)](http://www.aka.fi/globalassets/32akatemiaohjelmat/digihum/hanke-esitteet/salmi-digihum.pdf)
 
-## Deutschland - funded by Deutsche Forschungsgemeinshaft (DFG)
+### United Kingdom
 
-+ **Mark Priewe (PI)** - Professor of American and Modern English Literature, Professor of American and Modern English Literature, *Universität Stuttgart*
-+ **Clemens Neudecker** - Computing in Social Science, Arts and Humanities, *Staatsbibliothek zu Berlin & Europeana Newspapers*
-+ **Sebastian Pado** - Professor, Institute of Automatic Language Processing, *Universität Stuttgart*
-+ **Steffen Koch** - Researcher at the Institute for Visualization and Interactive System, *Universität Stuttgart*
-+ **Martin Riedl** - Institute of Automatic Language Processing, *Universität Stuttgart*
-+ **Jana Keck** - Postdoctoral Researcher, *Universität Stuttgart*
++ [Scissors & Paste Database (LBORO)](https://github.com/mhbeals/scissorsandpaste/)
++ [Scissors-and-Paste-O-Meter (LBORO)](http://scissorsandpaste.apps-1and1.net/scissors-and-paste-o-meter/)
 
-## México - funded by Consejo Nacional de Ciencia y Tecnología (CONACYT)
+### United States of America
 
-+ **Isabel Galina Russell (Co-PI)** - Full-time Researcher, *Universidad Nacional Autónoma de México*
-+ **Ernesto Priani Siasó (Co-PI)** - Professor, Faculty of Philosophy and Letters, *Universidad Nacional Autónoma de México*
++ [Viral Texts: Mapping Networks of Reprinting in Nineteenth-Century Newspapers and Magazines (NEH, ACLS)](http://viraltexts.org/)
++ [Image Analysis for Archival Discovery (Aida) (NEH, 2014–2016)](http://aida.unl.edu/)
++ [Nineteenth-Century Newspaper Analytics (NC State, Laboratory for Analytic Sciences, 2014–2016)](https://ncna.dh.chass.ncsu.edu/)
 
-## Nederland - funded by Nederlandse Organisatie voor Wetenschappelijk Onderzoek (NWO)
+### Deutschland
 
-+ **Jaap Verheul (PI)** - Associate Professor of Cultural History, *Universiteit Utrect*
++ [CRETA – Center for Reflected Text Analysis (German federal funding, 2016-2019)](https://www.creta.uni-stuttgart.de/cute/datenmaterial/entitaetsannotationen/)
++ [CLARIN-D: Research Infrastructure for the Humanities and Social Sciences (Germany)](http://www.clarin-d.de/en/)
 
-## Suomi - funded by Suomen Akatemia (AKA)
+### European Union
 
-+ **Hannu Salmi (PI)** - Academy Professor, *Turun Yliopisto*
-+ **Asko Nivala** - Postdoctoral Researcher, *Turun Yliopisto*
-+ **Mila Oiva** - Postdoctoral Researcher, *Turun Yliopisto*
-+ **Otto Latva** - PhD Candidate, *Turun Yliopisto*
-
-# United Kingdom - funded by Arts & Humanities Research Council and Economic and Social Research Council (AHRC/ESRC)
-
-+ **Melodee Beals (Co-PI)** - Lecturer in Digital History, *Loughborough University*
-+ **Julianne Nyhan (Co-PI)** - Senior Lecturer (Associate Professor) in Digital Information Studies (Department of Information Studies), *University College London*
-+ **Melissa Terras** - Professor & Chair, Center for Digital Cultural Heritage, *University of Edinburgh*
-+ **James Hetherington** - Head of Research Software Development for High-Processing Computing in Research IT Services, *University College London*
-+ **Raquel Alegre** - Research Software Developer for High-Processing Computing in Research IT Services, *University College London*
-+ **Tessa Hauswedell** - Teaching Fellow, *University College London*
-
-## United States of America - funded by Institute of Museum and Library Services (IMLS)
-
-+ **Ryan Cordell (Co-PI)** - Assistant Professor of English in the NULab for Texts, Maps, and Networks, *Northeastern University*
-+ **David Smith (Co-PI)** - Assistant Professor, College of Computer and Information Science, *Northeastern University*
-+ **Paul Fyfe** - Associate Professor of English, *North Carolina State University*
-+ **Elizabeth Lorang** - Associate Professor of Libraries and Humanities Librarian, *University of Nebraska-Lincoln*
-+ **Leen-Kiat Soh** - Associate Professor with the Department of Computer Science and Engineering, *University of Nebraska-Lincoln*
-+ **Lara Rose** - PhD Student, *Northeastern University*
-
-# Project Advisory Board
-
-TBD
++ [Europeana Newspapers (EU, 2012–2015)](http://www.europeana-newspapers.eu/)
++ [Enriching Europeana Newspapers (EUDAT, 2016–2017)](https://www.eudat.eu/communities/enriching-europeana-newspapers)
