@@ -25,7 +25,7 @@ description: A Digging Into Data project tracing global information networks in 
 navbar-links:
   About: "about"
   Team: "team"
-  # News: "index"
+  News: "news"
   Data: "https://github.com/OceanicExchanges"
   Project Links:
     - Digging Into Data: "https://diggingintodata.org/"
