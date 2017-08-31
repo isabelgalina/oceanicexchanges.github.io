@@ -1,17 +1,72 @@
 ---
 layout: page
-title: Oceanic Exchanges
-subtitle: Tracing Global Information Networks In Historical Newspaper Repositories, 1840-1914
+title: OcEx Project News
+subtitle: Updates from Project Team Members
+use-site-title: true
 ---
 
-Oceanic Exchanges (OcEx) was funded through the [Transatlantic Partnership for Social Sciences and Humanities 2016 Digging Into Data Challenge](https://diggingintodata.org/awards/2016/project/oceanic-exchanges-tracing-global-information-networks-historical-newspaper).
+<div class="posts-list">
+  {% for post in paginator.posts %}
+  <article class="post-preview">
+    <a href="{{ post.url | prepend: site.baseurl }}">
+	  <h2 class="post-title">{{ post.title }}</h2>
 
-The dramatic expansion of newspapers over the 19th century created a global culture of abundant, rapidly circulating information. The significance of the newspaper has largely been defined in metropolitan and national terms in scholarship, while digitization by local institutions further situates newspapers in national contexts. OcEx brings together leading efforts in computational periodicals research from six countries—Finland, Germany, Mexico, the Netherlands, the United Kingdom, and the United States—to examine patterns of information flow across national and linguistic boundaries. 
+	  {% if post.subtitle %}
+	  <h3 class="post-subtitle">
+	    {{ post.subtitle }}
+	  </h3>
+	  {% endif %}
+    </a>
 
-Through computational analysis, OcEx also crosses the boundaries that separate digitized newspaper corpora to illustrate the global connectedness of 19th century newspapers. OcEx uncovers how the international was refracted through the local as news, advice, vignettes, popular science, poetry, fiction, and more. By linking research across large-scale digital newspaper collections, OcEx offers a model for data custodians that host large-scale humanities data.
+    <p class="post-meta">
+      Posted on {{ post.date | date: "%B %-d, %Y" }}
+    </p>
 
-We’re just getting started, so watch for more in 2017-2019.
+    <div class="post-entry-container">
+      {% if post.image %}
+      <div class="post-image">
+        <a href="{{ post.url | prepend: site.baseurl }}">
+          <img src="{{ post.image }}">
+        </a>
+      </div>
+      {% endif %}
+      <div class="post-entry">
+        {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
+        {% assign excerpt_word_count = post.excerpt | number_of_words %}
+        {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
+          <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
+        {% endif %}
+      </div>
+    </div>
 
-# Suggested Citation
+    {% if post.tags.size > 0 %}
+    <div class="blog-tags">
+      Tags:
+      {% if site.link-tags %}
+      {% for tag in post.tags %}
+      <a href="{{ site.baseurl }}/tag/{{ tag }}">{{ tag }}</a>
+      {% endfor %}
+      {% else %}
+        {{ post.tags | join: ", " }}
+      {% endif %}
+    </div>
+    {% endif %}
 
-TBD
+   </article>
+  {% endfor %}
+</div>
+
+{% if paginator.total_pages > 1 %}
+<ul class="pager main-pager">
+  {% if paginator.previous_page %}
+  <li class="previous">
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+  </li>
+  {% endif %}
+  {% if paginator.next_page %}
+  <li class="next">
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+  </li>
+  {% endif %}
+</ul>
+{% endif %}
