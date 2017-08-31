@@ -12,6 +12,17 @@ Through computational analysis, OcEx also crosses the boundaries that separate d
 
 We’re just getting started, so watch for more in 2017-2019.
 
-# Suggested Citation
+# Suggested Citations
 
-TBD
+For more citation options, please visit our [Open Science Framework](osf.io/wa94s) page.
+
+### APA
+
+Cordell, R., Beals, M. H., Galina, I., Priewe, M., Priani, E., Salmi, H., … Terras, M. (2017, August 31). Oceanic Exchanges. DOI 10.17605/OSF.IO/WA94S. Retrieved from [osf.io/wa94s](osf.io/wa94s).
+
+### MLA
+
+Cordell, Ryan et al. “Oceanic Exchanges.” Open Science Framework, 31 Aug. 2017. DOI 10.17605/OSF.IO/WA94S. Retrieved from [osf.io/wa94s](osf.io/wa94s).
+
+### Chicago
+Cordell, Ryan, M. H Beals, Isabel Galina, Marc Priewe, Ernesto Priani, Hannu Salmi, Jaap Verheul, et al. 2017. “Oceanic Exchanges.” Open Science Framework. August 31. DOI 10.17605/OSF.IO/WA94S. Retrieved from [osf.io/wa94s](osf.io/wa94s).
