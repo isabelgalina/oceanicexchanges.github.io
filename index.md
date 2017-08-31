@@ -12,7 +12,7 @@ Through computational analysis, OcEx also crosses the boundaries that separate d
 
 We’re just getting started, so watch for more in 2017-2019.
 
-# Suggested Citations
+## Suggested Citations
 
 For more citation options, please visit our [Open Science Framework](osf.io/wa94s) page.
 
