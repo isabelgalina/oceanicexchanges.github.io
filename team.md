@@ -1,9 +1,7 @@
 ---
 layout: page
-title: OcEx Team
+title: OcEx Project Team
 ---
-
-# Our Project Team
 
 Oceanic Exchanges brings together a consortium of cultural historians, computational linguists, literary scholars, digital curators and humanists, and computer scientists who each bring skills from [previous successful projects](http://oceanicexchanges.org/associated-projects/).
 
