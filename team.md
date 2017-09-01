@@ -18,12 +18,7 @@ Oceanic Exchanges brings together a consortium of cultural historians, computati
 
 ### Deutschland - funded by Deutsche Forschungsgemeinschaft (DFG)
 
-+ **Mark Priewe (PI)** - Professor of American and Modern English Literature, Professor of American and Modern English Literature, *Universität Stuttgart*
-+ **Clemens Neudecker** - Computing in Social Science, Arts and Humanities, *Staatsbibliothek zu Berlin & Europeana Newspapers*
-+ **Sebastian Pado** - Professor, Institute of Automatic Language Processing, *Universität Stuttgart*
-+ **Steffen Koch** - Researcher at the Institute for Visualization and Interactive System, *Universität Stuttgart*
-+ **Martin Riedl** - Institute of Automatic Language Processing, *Universität Stuttgart*
-+ **Jana Keck** - Postdoctoral Researcher, *Universität Stuttgart*
++ **Marc Priewe (PI)** - Professor of American Literature & Culture, Institute for Literary Studies (ILW), *Universität Stuttgart*+ **Clemens Neudecker** - Computing in Social Science, Arts and Humanities, *Staatsbibliothek zu Berlin & Europeana Newspapers*+ **Sebastian Padó** - Professor, Institute for Natural Language Processing (IMS), *Universität Stuttgart*+ **Steffen Koch** - Researcher, Institute for Visualization and Interactive Systems (VIS), *Universität Stuttgart*+ **Martin Riedl** - Postdoctoral Researcher, Institute of Natural Language Processing, *Universität Stuttgart*+ **Jana Keck** – Doctoral Researcher, American Literature & Culture, Institute for Literary Studies (ILW), *Universität Stuttgart*
 
 -----
 
