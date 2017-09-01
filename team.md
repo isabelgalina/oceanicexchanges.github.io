@@ -16,7 +16,7 @@ Oceanic Exchanges brings together a consortium of cultural historians, computati
 
 ## National Teams
 
-### Deutschland - funded by Deutsche Forschungsgemeinshaft (DFG)
+### Deutschland - funded by Deutsche Forschungsgemeinschaft (DFG)
 
 + **Mark Priewe (PI)** - Professor of American and Modern English Literature, Professor of American and Modern English Literature, *Universität Stuttgart*
 + **Clemens Neudecker** - Computing in Social Science, Arts and Humanities, *Staatsbibliothek zu Berlin & Europeana Newspapers*
