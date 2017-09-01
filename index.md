@@ -15,10 +15,10 @@ We’re just getting started, so watch for more in 2017-2019.
 
 ## Suggested Project Citation
 
-"Oceanic Exchanges," 2017. Open Science Framework. August 31. DOI 10.17605/OSF.IO/WA94S. Retrieved from [osf.io/wa94s](osf.io/wa94s).
+"Oceanic Exchanges," 2017. Open Science Framework. August 31. DOI 10.17605/OSF.IO/WA94S. Retrieved from [osf.io/wa94s](http://osf.io/wa94s).
 
-For more citation options, please visit our [Open Science Framework](osf.io/wa94s) page.
+For more citation options, please visit our [Open Science Framework](http://osf.io/wa94s) page.
 
 -----
 
-*Our website cover image depicts HMS* Agamemnon *laying the transatlantic telegraph cable in 1857 or 58. The cable was joined on 29 July, 1858. The pulic domain image was copied [from Wikimedia](https://commons.wikimedia.org/wiki/File:H.M.S._%E2%80%9CAGAMEMNON%E2%80%9D_laying_cable.jpg).*
+*Our website cover image depicts HMS* Agamemnon *laying the transatlantic telegraph cable in 1857 or 58. The cable was joined on 29 July, 1858. The pulic domain image was obtained [from Wikimedia](https://commons.wikimedia.org/wiki/File:H.M.S._%E2%80%9CAGAMEMNON%E2%80%9D_laying_cable.jpg).*
