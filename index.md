@@ -15,9 +15,9 @@ We’re just getting started, so watch for more in 2017-2019.
 
 ## Suggested Project Citation
 
-"Oceanic Exchanges," 2017. Open Science Framework. August 31. DOI 10.17605/OSF.IO/WA94S. Retrieved from [osf.io/wa94s](osf.io/wa94s).
+Cordell, R. et al., 2017. Oceanic Exchanges. DOI 10.17605/OSF.IO/WA94S. Available at: [osf.io/wa94s](https://osf.io/wa94s).
 
-For more citation options, please visit our [Open Science Framework](osf.io/wa94s) page.
+For more citation options, please visit our [Open Science Framework](https://osf.io/wa94s) page.
 
 -----
 
