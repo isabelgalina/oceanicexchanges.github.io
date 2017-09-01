@@ -2,7 +2,6 @@
 layout: page
 title: Oceanic Exchanges
 subtitle: Tracing Global Information Networks In Historical Newspaper Repositories, 1840-1914
-bigimg: /img/great-eastern.jpg
 ---
 
 Oceanic Exchanges (OcEx) is funded through the [Transatlantic Partnership for Social Sciences and Humanities 2016 Digging Into Data Challenge](https://diggingintodata.org/awards/2016/project/oceanic-exchanges-tracing-global-information-networks-historical-newspaper).
