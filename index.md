@@ -15,7 +15,7 @@ We’re just getting started, so watch for more in 2017-2019.
 
 ## Suggested Project Citation
 
-Cordell, R. et al., 2017. Oceanic Exchanges. DOI 10.17605/OSF.IO/WA94S. Available at: [osf.io/wa94s](https://osf.io/wa94s).
+Oceanic Exchanges Project Team, 2017. *Oceanic Exchanges: Tracing Global Information Networks In Historical Newspaper Repositories, 1840-1914*. DOI 10.17605/OSF.IO/WA94S. Available at: [osf.io/wa94s](https://osf.io/wa94s).
 
 For more citation options, please visit our [Open Science Framework](https://osf.io/wa94s) page.
 
