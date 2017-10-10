@@ -21,4 +21,4 @@ For more citation options, please visit our [Open Science Framework](https://osf
 
 -----
 
-*Our website cover image depicts HMS* Agamemnon *laying the transatlantic telegraph cable in 1857 or 58. The cable was joined on 29 July, 1858. The pulic domain image was copied [from Wikimedia](https://commons.wikimedia.org/wiki/File:H.M.S._%E2%80%9CAGAMEMNON%E2%80%9D_laying_cable.jpg).*
+*Our website cover image depicts HMS* Agamemnon *laying the transatlantic telegraph cable in 1857 or 58. The cable was joined on 29 July, 1858. The public domain image was adapted [from the scan on Wikimedia](https://commons.wikimedia.org/wiki/File:H.M.S._%E2%80%9CAGAMEMNON%E2%80%9D_laying_cable.jpg).*
