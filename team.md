@@ -31,7 +31,7 @@ Oceanic Exchanges brings together a consortium of cultural historians, computati
 
 ### Nederland - funded by Nederlandse Organisatie voor Wetenschappelijk Onderzoek (NWO)
 
-+ **Jaap Verheul (PI)** - Associate Professor of Cultural History, *Universiteit Utrect*
++ **Jaap Verheul (PI)** - Associate Professor of Cultural History, *Universiteit Utrecht*
 
 -----
 
