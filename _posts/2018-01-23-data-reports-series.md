@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data Reports Coming Soon
+title: Data Reports Series Introduction
 tags: [dh, DiD, data reports]
 author: Melodee Beals, Paul Fyfe, Hannu Salmi, Clemens Neudecker, Isabel Galina Russell, Adán Lerma
 ---
@@ -46,4 +46,3 @@ Contestar estas interrogantes ayudará a OcEx a establecer el alcance de la inve
 En los siguientes dos meses, estaremos discutiendo a profundidad cada una de estas bases de datos. Investigaremos la forma y composición de la fuente de cada colección: cuáles periódicos incluye y cómo podrán unirse para forma una sola unidad. También consideraremos lo que estas colecciones omiten ideológica y prácticamente y a dónde podrán acudir los investigadores para obtener mayor información. 
 
 Estos reportes conformarán los cimientos para entender, a través de las diferentes colecciones, cómo son catalogados computacionalmente los materiales hemerográficos y cómo los archivistas e investigadores podrán desarrollar ontologías más profundas y significativas para abordar los periódicos del siglo XIX, tanto en forma digital como física. Los reportes serán publicados quincenalmente aquí en el blog de OcEx. ¡Manténgase al tanto!
-
