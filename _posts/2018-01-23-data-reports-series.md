@@ -5,7 +5,7 @@ tags: [dh, DiD, data reports]
 author: Melodee Beals, Paul Fyfe, Hannu Salmi, Clemens Neudecker, Isabel Galina Russell, Adán Lerma
 ---
 
-[English](#English) | [Finnish](#Finnish) | [German](#German) | [Spanish](#Spanish) | 
+[English](#English) | [Finnish](#Finnish) | [German](#German) | [Spanish](#Spanish) 
 
 ## <a name="English"></a>English
 
