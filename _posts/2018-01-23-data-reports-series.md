@@ -5,7 +5,7 @@ tags: [dh, DiD, data reports]
 author: Melodee Beals, Paul Fyfe, Hannu Salmi, Clemens Neudecker, Isabel Galina Russell, Adán Lerma
 ---
 
-[English](#English) | [Finnish](#Finnish) | [German](#German) | [Spanish](#Spanish) 
+[English](#English) | [Suomi](#Suomi) | [Deutsch](#Deutsch) | [Español](#Español) 
 
 ## <a name="English"></a>English
 
@@ -17,7 +17,7 @@ Over the next two months, we will be discussing each of these datasets in detail
 
 These reports will form the foundation of a cross-collection understanding of how newspaper materials are computationally catalogued and how archivists and researchers might develop a deeper and more meaningful ontology to engage with nineteenth-century newspapers in their physical and digital forms. Reports will be published biweekly right here on the OcEx blog. Stay tuned!
 
-## <a name="Finnish"></a>Finnish
+## <a name="Suomi"></a>Suomi
 
 _Oceanic Exchanges_ -hankkeen ensimmäinen vaihe koostuu projektin käytettävissä olevan aineiston tarkastelusta. Ennen kuin voimme louhia aineistoa on tärkeää tuntea sen ominaisuudet. Mitä se tarkkaan ottaen sisältää? Miten nämä aineistot ovat syntyneet? Ja miten ne saataisiin keskustelemaan keskenään?
 
@@ -27,7 +27,7 @@ Tulevina kuukausina tarkastelemme koko tätä aineistoa yksityiskohtaisesti. Tut
 
 Nämä datakuvaukset muodostavat perustan kokoelmien rajat ylittävälle ymmärrykselle: miten sanomalehtiaineistot on ylipäätään luetteloitu, ja miten voitaisiin kehittää vielä syvemmälle menevä ja toimivampi, sekä julkaisujen fyysiset että digitaaliset muodot huomioiva, 1800-luvun sanomalehtien ontologia. Nämä kuvaukset julkaistaan joka toinen viikko OcEx-hankkeen blogissa. Tervetuloa mukaan!
 
-## <a name="German"></a>German
+## <a name="Deutsch"></a>Deutsch
 
 Am Anfang jedes Projekts steht für gewöhnlich eine erste, gründliche Sichtung der Datenlage - so auch in _Oceanic Exchanges_. Bevor systematisch wissenschaftliche Fragen an die zur Verfügung stehenden Datensets gestellt werden können, muss erst einmal geklärt werden, womit man es dabei überhaupt zu tun hat. Was genau beinhalten die Daten? Wie und wofür wurden sie erstellt? Und wie lassen sich etwa Verbindungen zwischen den unterschiedlichen Sammlungen herstellen?
 
@@ -37,7 +37,7 @@ Im Laufe der kommenden Monate werden wir jedes Einzelne dieser Datensets im Deta
 
 Diese Einzelberichte stellen dann wiederum die Grundlage für eine sammlungs- und nationenübergreifende Betrachtung darüber dar, wie Zeitungen katalogisiert und digitalisiert werden und wie Wissenschaftler*Innen und Bibliotheken bzw. Archive sich mit sowohl digitalen als auch analogen Zeitungen des 19. Jahrhunderts tiefergehender auseinandersetzen können. Die Darstellungen der einzelnen Sammlungen werden im 2-Wochen-Rhythmus auf diesem Blog erscheinen - schauen Sie also regelmäßig vorbei, um nichts zu verpassen!
 
-## <a name="Spanish"></a>Spanish
+## <a name="Español"></a>Español
 
 La primera fase del proyecto _Oceanic Exchanges_ incluye un estudio detallado de nuestras diversas bases de datos. Antes de ahondar en éstas, necesitamos saber sus características: ¿Cómo están compuestas? ¿Cómo se recabaron las bases de datos? y ¿Cómo pueden comunicarse entre sí?
 
