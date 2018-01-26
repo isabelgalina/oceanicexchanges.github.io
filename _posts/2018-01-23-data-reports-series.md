@@ -2,10 +2,10 @@
 layout: post
 title: Data Reports Series Introduction
 tags: [dh, DiD, data reports]
-author: Melodee Beals, Paul Fyfe, Hannu Salmi, Clemens Neudecker, Isabel Galina Russell, Adán Lerma
+author: Melodee Beals, Paul Fyfe, Hannu Salmi, Clemens Neudecker, Isabel Galina Russell, Adán Lerma, Hanneke Takken
 ---
 
-[English](#English) | [Suomi](#Suomi) | [Deutsch](#Deutsch) | [Español](#Español) 
+[English](#English) | [Suomi](#Suomi) | [Deutsch](#Deutsch) | [Español](#Español) | [Nederlands](#Nederlands)
 
 ## <a name="English"></a>English
 
@@ -46,3 +46,13 @@ Contestar estas interrogantes ayudará a OcEx a establecer el alcance de la inve
 En los siguientes dos meses, estaremos discutiendo a profundidad cada una de estas bases de datos. Investigaremos la forma y composición de la fuente de cada colección: cuáles periódicos incluye y cómo podrán unirse para forma una sola unidad. También consideraremos lo que estas colecciones omiten ideológica y prácticamente y a dónde podrán acudir los investigadores para obtener mayor información. 
 
 Estos reportes conformarán los cimientos para entender, a través de las diferentes colecciones, cómo son catalogados computacionalmente los materiales hemerográficos y cómo los archivistas e investigadores podrán desarrollar ontologías más profundas y significativas para abordar los periódicos del siglo XIX, tanto en forma digital como física. Los reportes serán publicados quincenalmente aquí en el blog de OcEx. ¡Manténgase al tanto!
+
+## <a name="Nederlands"></a>Nederlands
+
+De eerste fase van het project _Oceanic Exchanges_ omvat een gedetailleerde analyse van onze verschillende datasets. Voordat we systematisch wetenschappelijke vragen aan het materiaal kunnen stellen, is het nodig om eerst te bepalen waaruit de datasets precies bestaan. Hoe zijn ze samengesteld? En hoe zouden ze met elkaar in verband kunnen worden gebracht?
+ 
+De antwoorden op deze vragen zullen _Oceanic Exchanges_ helpen om het onderzoeksgebied vast te stellen en een manier te vinden om te werken met de verschillende digitale collecties. Het project gebruikt zowel nationale als commerciële datasets van kranten uit de hele wereld in zes talen. Daarbij hebben we niet alleen te maken met krantenteksten die de taalgrenzen doorkruisen. Ook de metadata, de informatie die onze teksten beschrijft en omringt, is opgesteld in verschillende talen en is bovendien beïnvloed door de verschillende praktische en culturele achtergronden.
+ 
+In de komende twee maanden zullen we deze datasets in detail presenteren. We zullen de vorm en samenstelling van elke collectie verkennen en nagaan welke krantentitels hierin aanwezig zijn. Ook onderzoeken we op welke manier deze data een samenhangend geheel vormen; wat de gemene deler is. Daarnaast zullen we ook nagaan wat de hiaten in de collecties zijn, zowel op ideologisch als op praktisch gebied, en hoe en waar onderzoekers meer informatie kunnen vinden.   
+ 
+Deze rapporten zullen de basis vormen van een collectie-overstijgend begrip van hoe kranten gecatalogiseerd en gedigitaliseerd worden en hoe onderzoekers, bibliotheken en archieven een samenhangende datastructuur (ontologie) kunnen opzetten om meer inzicht te krijgen in deze negentiende-eeuwse kranten, zowel in papieren als digitale vorm. Om de week zullen we een collectie aan u presenteren– surf daarom regelmatig voorbij om niets te missen!
