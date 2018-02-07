@@ -5,7 +5,7 @@ tags: [dh, DiD, data reports]
 author: Melodee Beals, Paul Fyfe
 ---
  
-Building upon [previous projects](#related), *Oceanic Exchanges* is using approximately 3 million pages of nineteenth-century newspapers from the British Library to better understand the structure of digitised newspaper collections and the spread of texts and ideas across global information networks. Although the British Library’s physical collections of historical newspapers are far more extensive, these newspapers were selected for digitisation to provide a representative sample of the wider collection, covering the metropolitan and provincial press, ranging in political and geographical coverage, and representing both English- and Welsh-language titles. The library has and continues to grow its digital newspaper collections in stages; OcEx uses XML data from the first two of these stages, known as “[Part I](https://www.gale.com/c/british-library-newspapers-part-i)” and “[Part II](https://www.gale.com/c/british-library-newspapers-part-ii)”.
+Building upon [previous projects](#Related), *Oceanic Exchanges* is using approximately 3 million pages of nineteenth-century newspapers from the British Library to better understand the structure of digitised newspaper collections and the spread of texts and ideas across global information networks. Although the British Library’s physical collections of historical newspapers are far more extensive, these newspapers were selected for digitisation to provide a representative sample of the wider collection, covering the metropolitan and provincial press, ranging in political and geographical coverage, and representing both English- and Welsh-language titles. The library has and continues to grow its digital newspaper collections in stages; OcEx uses XML data from the first two of these stages, known as “[Part I](https://www.gale.com/c/british-library-newspapers-part-i)” and “[Part II](https://www.gale.com/c/british-library-newspapers-part-ii)”.
 
 ## History of the Collection
 
@@ -88,7 +88,7 @@ In the United Kingdom, the BL1 and BL2 digitized newspapers collections can be f
 
 While OcEx cannot share the source data provide by Gale and the British Library, it can share its derivatives, analyses, and visualizations of this data as approved transformational uses, according to current copyright law. Small quotations and downsampled page images can also be shared under academic fair use provisions.
 
-## <a name="related"></a>Related Projects
+## <a name="Related"></a>Related Projects
 + [Beals, M. H. *Scissors and Paste*](http://www.scissorsandpaste.net)) 
 + [Cordell, Ryan. *Viral Texts*](http://www.viraltexts.org))
 + [Fyfe, Paul. “An Archaeology of Victorian  Newspapers” *Victorian Periodicals Review* 49:4 (2016): 546-577](https://repository.lib.ncsu.edu/bitstream/handle/1840.20/33457/fyfe.newspaper.archaeology.VPR.pdf?sequence=1))
