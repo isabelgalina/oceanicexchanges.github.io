@@ -88,7 +88,8 @@ In the United Kingdom, the BL1 and BL2 digitized newspapers collections can be f
 
 While OcEx cannot share the source data provide by Gale and the British Library, it can share its derivatives, analyses, and visualizations of this data as approved transformational uses, according to current copyright law. Small quotations and downsampled page images can also be shared under academic fair use provisions.
 
-## <a name="Related"></a>Related Projects
-+ [Beals, M. H. *Scissors and Paste*](http://www.scissorsandpaste.net)) 
-+ [Cordell, Ryan. *Viral Texts*](http://www.viraltexts.org))
-+ [Fyfe, Paul. “An Archaeology of Victorian  Newspapers” *Victorian Periodicals Review* 49:4 (2016): 546-577](https://repository.lib.ncsu.edu/bitstream/handle/1840.20/33457/fyfe.newspaper.archaeology.VPR.pdf?sequence=1))
+<a name="Related"></a>
+## Related Projects
++ Beals, M. H. [*Scissors and Paste*](http://www.scissorsandpaste.net) 
++ Cordell, Ryan. [*Viral Texts*](http://www.viraltexts.org)
++ Fyfe, Paul. [“An Archaeology of Victorian  Newspapers” *Victorian Periodicals Review* 49:4 (2016): 546-577](https://repository.lib.ncsu.edu/bitstream/handle/1840.20/33457/fyfe.newspaper.archaeology.VPR.pdf?sequence=1)
