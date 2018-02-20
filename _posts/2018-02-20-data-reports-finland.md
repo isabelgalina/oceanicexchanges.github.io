@@ -52,7 +52,8 @@ In the data packages, pages are located in two separate directories: one based o
 ### Metadata in the data package 1771-1874
 The data package 1771-1874 includes ALTO files and metadata in METS format. As an example:
 
-```  <dmdSec ID="MODSMD_CHAP2">
+```
+<dmdSec ID="MODSMD_CHAP2">
             	<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of chapter 0">
                     	<xmlData>
                             	<MODS:mods>
@@ -78,7 +79,8 @@ The data package 1771-1874 includes ALTO files and metadata in METS format. As a
 ### Metadata in the data package 1771-1910
 The data package for 1771-1910 includes ALTO files but no METS. Metadata has been included in the beginning of the files in XML format. Example:
 
-``` <metadata>
+```
+<metadata>
    	<title>Kirkollinen kuukauslehti : uskonnollista lukemista perheille</title>
    	<identifier type="nbn">fk00873</identifier>
    	<published format="edtf">1881-11</published>
@@ -106,7 +108,8 @@ The data package for 1771-1910 includes ALTO files but no METS. Metadata has bee
 ### Metadata in the data package 1875-1920
 The metadata of the collection for years 1875-1920 is in ALTO/METS format. For instance: 
 
-``` <mets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/METS/" xsi:schemaLocation="http://www.loc.gov/METS/ //Themis/docworks/docWORKS/schema/mets-metae.xsd" xmlns:MODS="http://www.loc.gov/mods/v3" xmlns:mix="http://www.loc.gov/mix/" xmlns:xlink="http://www.w3.org/TR/xlink" TYPE="METAe_Serial" LABEL="Finsk Tidskrift no. 1-2 01.1911">
+```
+<mets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/METS/" xsi:schemaLocation="http://www.loc.gov/METS/ //Themis/docworks/docWORKS/schema/mets-metae.xsd" xmlns:MODS="http://www.loc.gov/mods/v3" xmlns:mix="http://www.loc.gov/mix/" xmlns:xlink="http://www.w3.org/TR/xlink" TYPE="METAe_Serial" LABEL="Finsk Tidskrift no. 1-2 01.1911">
 <metsHdr CREATEDATE="2007-03-27T10:35:59" LASTMODDATE="2007-03-27T10:35:59">
 <agent ROLE="CREATOR" TYPE="OTHER" OTHERTYPE="SOFTWARE">
 <name>CCS docWORKS/METAe Version 6.0-8</name>
@@ -140,7 +143,7 @@ In 2001, the National Library of Finland finally opened its [online collection o
 
 The TIDEN project was important in defining best practices for future digitization projects. Its main ideas were published together with the recommendations of The International Federation of Library Associations and Institutions (IFLA) in the publication _Guidance on the Best Practices for Microfilming of Newspapers in Preparation for Possible Future Digitisation_ (2003). In Finland, the digital collection is based on microfilms, which means that both the quality of the microfilm and the quality of the original newspaper are essential. In the present collection, the differences in quality have obviously had an impact on the accuracy of optical character recognition which varies from decade to decade.
 
-# <a name="suomi"></a>Suomen kansalliskirjaston digitoidut sanomalehdet
+<a name="suomi"></a># Suomen kansalliskirjaston digitoidut sanomalehdet
 
 Suomen kansalliskirjaston digitaalinen kokoelma sisältää 12,8 miljoonaa sivua sanoma- ja aikakauslehtiä. Tällä hetkellä lehtiä voi vuoden 1929 numeroihin asti lukea avoimesti kirjaston sivustolla. Kokoelma kattaa kaikki suomalaiset sanoma- ja aikakauslehdet, ensimmäisestä, vuonna 1771 perustetusta sanomalehdestä _Tidningar Utgifne af et Sällskap i Åbo_ lähtien vuoden 1929 loppuun. Kokoelmaa voi kuvata seuraavin luvuin (tilanne 19.2.2018):
 
@@ -186,10 +189,11 @@ Kansalliskirjaston aineisto sisältää metadatan, sivudatan ja tiedostodatan, j
 
 Kaikki sivut ovat kahdessa erillisessä hakemistossa, joista toinen pohjautuu ISSN-numeroon, toinen julkaisuvuoteen. Julkaisuvuoden alta löytyy julkaisun kieli, minkä alla ovat varsinaiset ALTO XML -tiedostot. Ne on nimetty seuraavasti: ISSN_YEAR_DATE_ISSUE_PAGE.
 
-Metadata 1771-1874
+### Metadata 1771-1874
 Kokoelman 1771-1874 metatiedot sisältävät tietoa muun muassa sanomalehtiartikkeleista ja muista sisäisistä segmenteistä. Datadump sisältää ALTO-tiedostot ja metatiedot METS-muodossa. Tässä esimerkki metadatasta: 
 
-```  <dmdSec ID="MODSMD_CHAP2">
+```
+<dmdSec ID="MODSMD_CHAP2">
             	<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of chapter 0">
                     	<xmlData>
                             	<MODS:mods>
@@ -215,7 +219,8 @@ Kokoelman 1771-1874 metatiedot sisältävät tietoa muun muassa sanomalehtiartik
 ### Metadata 1771-1910
 Vuosien 1771-1910 datadump sisältää ALTO-tiedostot. Metatiedot löytyvät tiedostojen alusta XML-muodossa. Tässä esimerkki: 
 
-```<metadata>
+```
+<metadata>
    	<title>Kirkollinen kuukauslehti : uskonnollista lukemista perheille</title>
    	<identifier type="nbn">fk00873</identifier>
    	<published format="edtf">1881-11</published>
@@ -242,7 +247,8 @@ Vuosien 1771-1910 datadump sisältää ALTO-tiedostot. Metatiedot löytyvät tie
 ### Metadata 1875-1920
 Kokoelman 1875-1920 metatiedot noudattavat ALTO/METS-standardia. Tässä esimerkki metadatasta:
 
-```<mets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/METS/" xsi:schemaLocation="http://www.loc.gov/METS/ //Themis/docworks/docWORKS/schema/mets-metae.xsd" xmlns:MODS="http://www.loc.gov/mods/v3" xmlns:mix="http://www.loc.gov/mix/" xmlns:xlink="http://www.w3.org/TR/xlink" TYPE="METAe_Serial" LABEL="Finsk Tidskrift no. 1-2 01.1911">
+```
+<mets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/METS/" xsi:schemaLocation="http://www.loc.gov/METS/ //Themis/docworks/docWORKS/schema/mets-metae.xsd" xmlns:MODS="http://www.loc.gov/mods/v3" xmlns:mix="http://www.loc.gov/mix/" xmlns:xlink="http://www.w3.org/TR/xlink" TYPE="METAe_Serial" LABEL="Finsk Tidskrift no. 1-2 01.1911">
 <metsHdr CREATEDATE="2007-03-27T10:35:59" LASTMODDATE="2007-03-27T10:35:59">
 <agent ROLE="CREATOR" TYPE="OTHER" OTHERTYPE="SOFTWARE">
 <name>CCS docWORKS/METAe Version 6.0-8</name>
