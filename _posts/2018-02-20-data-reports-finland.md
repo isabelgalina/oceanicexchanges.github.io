@@ -53,25 +53,25 @@ The data package 1771-1874 includes ALTO files and metadata in METS format. As a
 
 ```xml
 <dmdSec ID="MODSMD_CHAP2">
-    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of chapter 0">
-        <xmlData>
-            <MODS:mods>
-                <MODS:titleInfo ID="MODSMD_CHAP2_TI2" xml:lang="fi">
-                    <MODS:title>Minkätähden Hüneburg ei antautunut.</MODS:title>
-                </MODS:titleInfo>
-                <MODS:name ID="MODSMD_CHAP2_N2" type="personal">
-                    <MODS:namePart type="given">A.</MODS:namePart>
-                    <MODS:namePart type="family">G</MODS:namePart>
-                    <MODS:role>
-                        <MODS:roleTerm>aut</MODS:roleTerm>
-                    </MODS:role>
-                </MODS:name>
-                <MODS:language>
-                    <MODS:languageTerm type="code" authority="rfc3066">fi</MODS:languageTerm>
-                    </MODS:language>
-            </MODS:mods>
-        </xmlData>
-    </mdWrap>
+	<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of chapter 0">
+		<xmlData>
+			<MODS:mods>
+				<MODS:titleInfo ID="MODSMD_CHAP2_TI2" xml:lang="fi">
+					<MODS:title>Minkätähden Hüneburg ei antautunut.</MODS:title>
+				</MODS:titleInfo>
+				<MODS:name ID="MODSMD_CHAP2_N2" type="personal">
+					<MODS:namePart type="given">A.</MODS:namePart>
+					<MODS:namePart type="family">G</MODS:namePart>
+					<MODS:role>
+						<MODS:roleTerm>aut</MODS:roleTerm>
+					</MODS:role>
+				</MODS:name>
+				<MODS:language>
+					<MODS:languageTerm type="code" authority="rfc3066">fi</MODS:languageTerm>
+				</MODS:language>
+			</MODS:mods>
+		</xmlData>
+	</mdWrap>
 </dmdSec>
 ```
 
@@ -192,24 +192,24 @@ Kokoelman 1771-1874 metatiedot sisältävät tietoa muun muassa sanomalehtiartik
 
 ```xml
 <dmdSec ID="MODSMD_CHAP2">
-     <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of chapter 0">
+	<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of chapter 0">
 		<xmlData>
 			<MODS:mods>
 				<MODS:titleInfo ID="MODSMD_CHAP2_TI2" xml:lang="fi">
 					<MODS:title>Minkätähden Hüneburg ei antautunut.</MODS:title>
 				</MODS:titleInfo>
-                <MODS:name ID="MODSMD_CHAP2_N2" type="personal">
+				<MODS:name ID="MODSMD_CHAP2_N2" type="personal">
 					<MODS:namePart type="given">A.</MODS:namePart>
 					<MODS:namePart type="family">G</MODS:namePart>
 					<MODS:role>
 						<MODS:roleTerm>aut</MODS:roleTerm>
 					</MODS:role>
 				</MODS:name>
-                <MODS:language>
+				<MODS:language>
 					<MODS:languageTerm type="code" authority="rfc3066">fi</MODS:languageTerm>
 				</MODS:language>
 			</MODS:mods>
-        </xmlData>
+		</xmlData>
 	</mdWrap>
 </dmdSec>
 ```
@@ -280,7 +280,7 @@ Kokoelman 1875-1920 metatiedot noudattavat ALTO/METS-standardia. Tässä esimerk
 
 Suomessa kulttuuriperinnön digitointi alkoi 1990-luvun puolivälissä. Sanomalehtikokoelman kannalta olennainen käännekohta oli pohjoismaisen TIDEN-projektin käynnistyminen vuonna 1998. Se oli neljän instituution yhteishanke: mukana olivat Ruotsin kuninkaallinen kirjasto, Norjan kansalliskirjasto, Århusin yliopiston kirjasto (Tanska) ja Helsingin yliopiston kirjasto, joka oli hankkeen koordinaattori. Helsingin yliopiston kirjasto oli jo vuonna 1990 perustanut Mikkeliin digitointi- ja konservointikeskuksen, ja tavoitteena oli luoda suomalaisen sanoma- ja aikakauslehdistön kattava mikrofilmikokoelma. Pian kävi kuitenkin ilmeiseksi, että digitointi olisi hedelmällisempi tapa kehittää tutkimuksen infrastruktuuria. TIDEN-projekti antoi mahdollisuuden tutkia nimenomaan digitoinnin kysymyksiä sekä tuottaa digitaalisia kopioita aiemmin tuotettujen mikrofilmikopioiden pohjalta. Tänään Mikkelin toimipiste on osa Kansalliskirjastoa.
 
-Vuonna 2001 Kansalliskirjasto avasi digitaalisten lehtien kokoelman osoitteessa http://digi.lib.helsinki.fi. Samalla ilmoitettiin, että kaikki suomalaiset sanomalehdet vuodesta 1771 vuoteen 1860 digitoidaan ja saatetaan avoimiksi verkon kautta. Kokoelman laajuudeksi ilmoitettiin 44 nimikettä, yhteensä 90 000 sivua. Kun sivusto avattiin vuonna 2001, vasta kolmannes, noin 36 000 sivua, oli valmiina. Nyt, 17 vuotta myöhemmin, avoin kokoelma sisältää kaikki sanoma- ja aikakauslehdet vuosilta 1771-1929.
+Vuonna 2001 Kansalliskirjasto avasi digitaalisten lehtien kokoelman osoitteessa [http://digi.lib.helsinki.fi]. Samalla ilmoitettiin, että kaikki suomalaiset sanomalehdet vuodesta 1771 vuoteen 1860 digitoidaan ja saatetaan avoimiksi verkon kautta. Kokoelman laajuudeksi ilmoitettiin 44 nimikettä, yhteensä 90 000 sivua. Kun sivusto avattiin vuonna 2001, vasta kolmannes, noin 36 000 sivua, oli valmiina. Nyt, 17 vuotta myöhemmin, avoin kokoelma sisältää kaikki sanoma- ja aikakauslehdet vuosilta 1771-1929.
 
 TIDEN-projekti rakensi pohjaa tulevien digitointiprojektien parhaille käytännöille. Sen keskeiset havainnot julkaistiin yhdessä The International Federation of Library Associations and Institutions (IFLA) -järjestön suositusten kanssa julkaisussa _Guidance on the Best Practices for Microfilming of Newspapers in Preparation for Possible Future Digitisation (2003)_. Suomen digitoitu kokoelma perustuu mikrofilmeihin ja siksi sekä alkuperäisen lehden laatu että filmauksen taso ovat olennaisia. Nykyistä kokoelmaa arvioitaessa tämä on syytä ottaa huomioon: se vaikuttaa siihen, miksi optisen tekstintunnistuksen laatu vaihtelee vuosikymmenittäin.
 
@@ -291,15 +291,15 @@ Bremer-Laamanen, Majlis: Connecting to the past - newspaper digitisation in the 
 Ilva, Jyrki: Kansallisen kulttuuriperinnön digitointi - loppuuko vauhti ennen alkua? _Agricolan tietosanomat_ 2/2004.
 
 Kettunen, Kimmo & Tuula Pääkkönen & Mika Koistinen: Between Diachrony and Synchrony: Evaluation of Lexical Quality of a Digitized Historical Finnish Newspaper and Journal Collection with Morphological Analyzers.
-[Conference paper](https://www.researchgate.net/publication/307904574_Between_Diachrony_and_Synchrony_Evaluation_of_Lexical_Quality_of_a_Digitized_Historical_Finnish_Newspaper_and_Journal_Collection_with_Morphological_Analyzers](https://www.researchgate.net/publication/307904574_Between_Diachrony_and_Synchrony_Evaluation_of_Lexical_Quality_of_a_Digitized_Historical_Finnish_Newspaper_and_Journal_Collection_with_Morphological_Analyzers).
+[Conference paper](https://www.researchgate.net/publication/307904574_Between_Diachrony_and_Synchrony_Evaluation_of_Lexical_Quality_of_a_Digitized_Historical_Finnish_Newspaper_and_Journal_Collection_with_Morphological_Analyzers).
 
-National Library of Finland (2011). _The Newspaper and Periodical OCR Corpus of the National Library of Finland (1771-1874)_ [text corpus]. [Kielipankki](http://urn.fi/urn:nbn:fi:lb-2015051201](http://urn.fi/urn:nbn:fi:lb-2015051201).
+National Library of Finland (2011). _The Newspaper and Periodical OCR Corpus of the National Library of Finland (1771-1874)_ [text corpus]. [Kielipankki](http://urn.fi/urn:nbn:fi:lb-2015051201).
 
-National Library of Finland (2017). _The Newspaper and Periodical OCR Corpus of the National Library of Finland (1875-1920)_ [text corpus]. [Kielipankki](http://urn.fi/urn:nbn:fi:lb-201801191](http://urn.fi/urn:nbn:fi:lb-201801191).
+National Library of Finland (2017). _The Newspaper and Periodical OCR Corpus of the National Library of Finland (1875-1920)_ [text corpus]. [Kielipankki](http://urn.fi/urn:nbn:fi:lb-201801191).
 
 Onnela, Tapio: Historiallinen sanomalehtikirjasto 1771-1860. _Agricolan tietosanomat_ 2/2001.
 
-Pääkkönen, Tuula, Jukka Kervinen, Asko Nivala, Kimmo Kettunen and Eetu Mäkelä: Exporting Finnish Digitized Historical Newspaper Contents for Offline Use. [Conference paper](https://www.academia.edu/27807323/Exporting_Finnish_Digitized_Historical_Newspaper_Contents_for_Offline_Use](https://www.academia.edu/27807323/Exporting_Finnish_Digitized_Historical_Newspaper_Contents_for_Offline_Use).
+Pääkkönen, Tuula, Jukka Kervinen, Asko Nivala, Kimmo Kettunen and Eetu Mäkelä: Exporting Finnish Digitized Historical Newspaper Contents for Offline Use. [Conference paper](https://www.academia.edu/27807323/Exporting_Finnish_Digitized_Historical_Newspaper_Contents_for_Offline_Use).
 
 Vesanto, Aleksi, Asko Nivala, Heli Rantala, Tapio Salakoski, Hannu Salmi and Filip Ginter, ’Applying BLAST to Text Reuse Detection in Finnish Newspapers and Journals, 1771-1910’, _Proceedings of the 21st Nordic Conference of Computational Linguistics_. Gothenburg, Sweden, 23-24 May 2017 (Linköping 2017): 54-58, [http://www.ep.liu.se/ecp/133/010/ecp17133010.pdf](http://www.ep.liu.se/ecp/133/010/ecp17133010.pdf)
 
