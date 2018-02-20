@@ -80,28 +80,28 @@ The data package for 1771-1910 includes ALTO files but no METS. Metadata has bee
 
 ```xml
 <metadata>
-   	<title>Kirkollinen kuukauslehti : uskonnollista lukemista perheille</title>
-   	<identifier type="nbn">fk00873</identifier>
-   	<published format="edtf">1881-11</published>
-   	<issue>11</issue>
-    	<pageOrder>21</pageOrder>
-    	<pageLabel></pageLabel>
-   	<language>fin</language>
-   	<contentType>serial</contentType>
-   	<originalPublisher/>
-   	<latestPublisher>[s.n.]</latestPublisher>
-    	<publishingPlace country="fi"></publishingPlace>
-   	<copyright>Copyrights expired</copyright>
-   	<license>ESIVERSIO - EI EDELLEENJAKELUUN</license>
-    	<pageIdentifier>7687234</pageIdentifier>
-    	<bindingIdentifier>984738</bindingIdentifier>
-   	<imageURL>http://digi.kansalliskirjasto.fi/aikakausi/binding/984738/image/21</imageURL>
-   	<pdfURL>http://digi.kansalliskirjasto.fi/aikakausi/binding/984738/pdf</pdfURL>
-   	<browseURL>http://digi.kansalliskirjasto.fi/aikakausi/binding/984738/#?page=21</browseURL>
-   	<pingURL/>
-   	<ocrVersion/>
-   	<lastModified>2012-04-12T00:04:00</lastModified>
-   </metadata>
+	<title>Kirkollinen kuukauslehti : uskonnollista lukemista perheille</title>
+	<identifier type="nbn">fk00873</identifier>
+	<published format="edtf">1881-11</published>
+	<issue>11</issue>
+		<pageOrder>21</pageOrder>
+		<pageLabel></pageLabel>
+	<language>fin</language>
+	<contentType>serial</contentType>
+	<originalPublisher/>
+	<latestPublisher>[s.n.]</latestPublisher>
+		<publishingPlace country="fi"></publishingPlace>
+	<copyright>Copyrights expired</copyright>
+	<license>ESIVERSIO - EI EDELLEENJAKELUUN</license>
+		<pageIdentifier>7687234</pageIdentifier>
+		<bindingIdentifier>984738</bindingIdentifier>
+	<imageURL>http://digi.kansalliskirjasto.fi/aikakausi/binding/984738/image/21</imageURL>
+	<pdfURL>http://digi.kansalliskirjasto.fi/aikakausi/binding/984738/pdf</pdfURL>
+	<browseURL>http://digi.kansalliskirjasto.fi/aikakausi/binding/984738/#?page=21</browseURL>
+	<pingURL/>
+	<ocrVersion/>
+	<lastModified>2012-04-12T00:04:00</lastModified>
+</metadata>
 ```
 
 ### Metadata in the data package 1875-1920
@@ -220,28 +220,28 @@ Vuosien 1771-1910 datadump sisältää ALTO-tiedostot. Metatiedot löytyvät tie
 
 ```xml
 <metadata>
-   	<title>Kirkollinen kuukauslehti : uskonnollista lukemista perheille</title>
-   	<identifier type="nbn">fk00873</identifier>
-   	<published format="edtf">1881-11</published>
-   	<issue>11</issue>
-    	<pageOrder>21</pageOrder>
-    	<pageLabel></pageLabel>
-   	<language>fin</language>
-   	<contentType>serial</contentType>
-   	<originalPublisher/>
-   	<latestPublisher>[s.n.]</latestPublisher>
-    	<publishingPlace country="fi"></publishingPlace>
-   	<copyright>Copyrights expired</copyright>
-   	<license>ESIVERSIO - EI EDELLEENJAKELUUN</license>
-    	<pageIdentifier>7687234</pageIdentifier>
-    	<bindingIdentifier>984738</bindingIdentifier>
-   	<imageURL>http://digi.kansalliskirjasto.fi/aikakausi/binding/984738/image/21</imageURL>
-   	<pdfURL>http://digi.kansalliskirjasto.fi/aikakausi/binding/984738/pdf</pdfURL>
-   	<browseURL>http://digi.kansalliskirjasto.fi/aikakausi/binding/984738/#?page=21</browseURL>
-   	<pingURL/>
-   	<ocrVersion/>
-   	<lastModified>2012-04-12T00:04:00</lastModified>
-   </metadata>
+	<title>Kirkollinen kuukauslehti : uskonnollista lukemista perheille</title>
+	<identifier type="nbn">fk00873</identifier>
+	<published format="edtf">1881-11</published>
+	<issue>11</issue>
+		<pageOrder>21</pageOrder>
+		<pageLabel></pageLabel>
+	<language>fin</language>
+	<contentType>serial</contentType>
+	<originalPublisher/>
+	<latestPublisher>[s.n.]</latestPublisher>
+		<publishingPlace country="fi"></publishingPlace>
+	<copyright>Copyrights expired</copyright>
+	<license>ESIVERSIO - EI EDELLEENJAKELUUN</license>
+		<pageIdentifier>7687234</pageIdentifier>
+		<bindingIdentifier>984738</bindingIdentifier>
+	<imageURL>http://digi.kansalliskirjasto.fi/aikakausi/binding/984738/image/21</imageURL>
+	<pdfURL>http://digi.kansalliskirjasto.fi/aikakausi/binding/984738/pdf</pdfURL>
+	<browseURL>http://digi.kansalliskirjasto.fi/aikakausi/binding/984738/#?page=21</browseURL>
+	<pingURL/>
+	<ocrVersion/>
+	<lastModified>2012-04-12T00:04:00</lastModified>
+</metadata>
 ```
 
 ### Metadata 1875-1920
@@ -280,7 +280,7 @@ Kokoelman 1875-1920 metatiedot noudattavat ALTO/METS-standardia. Tässä esimerk
 
 Suomessa kulttuuriperinnön digitointi alkoi 1990-luvun puolivälissä. Sanomalehtikokoelman kannalta olennainen käännekohta oli pohjoismaisen TIDEN-projektin käynnistyminen vuonna 1998. Se oli neljän instituution yhteishanke: mukana olivat Ruotsin kuninkaallinen kirjasto, Norjan kansalliskirjasto, Århusin yliopiston kirjasto (Tanska) ja Helsingin yliopiston kirjasto, joka oli hankkeen koordinaattori. Helsingin yliopiston kirjasto oli jo vuonna 1990 perustanut Mikkeliin digitointi- ja konservointikeskuksen, ja tavoitteena oli luoda suomalaisen sanoma- ja aikakauslehdistön kattava mikrofilmikokoelma. Pian kävi kuitenkin ilmeiseksi, että digitointi olisi hedelmällisempi tapa kehittää tutkimuksen infrastruktuuria. TIDEN-projekti antoi mahdollisuuden tutkia nimenomaan digitoinnin kysymyksiä sekä tuottaa digitaalisia kopioita aiemmin tuotettujen mikrofilmikopioiden pohjalta. Tänään Mikkelin toimipiste on osa Kansalliskirjastoa.
 
-Vuonna 2001 Kansalliskirjasto avasi digitaalisten lehtien kokoelman osoitteessa [http://digi.lib.helsinki.fi]. Samalla ilmoitettiin, että kaikki suomalaiset sanomalehdet vuodesta 1771 vuoteen 1860 digitoidaan ja saatetaan avoimiksi verkon kautta. Kokoelman laajuudeksi ilmoitettiin 44 nimikettä, yhteensä 90 000 sivua. Kun sivusto avattiin vuonna 2001, vasta kolmannes, noin 36 000 sivua, oli valmiina. Nyt, 17 vuotta myöhemmin, avoin kokoelma sisältää kaikki sanoma- ja aikakauslehdet vuosilta 1771-1929.
+Vuonna 2001 Kansalliskirjasto avasi digitaalisten lehtien kokoelman osoitteessa [http://digi.lib.helsinki.fi](http://digi.lib.helsinki.fi). Samalla ilmoitettiin, että kaikki suomalaiset sanomalehdet vuodesta 1771 vuoteen 1860 digitoidaan ja saatetaan avoimiksi verkon kautta. Kokoelman laajuudeksi ilmoitettiin 44 nimikettä, yhteensä 90 000 sivua. Kun sivusto avattiin vuonna 2001, vasta kolmannes, noin 36 000 sivua, oli valmiina. Nyt, 17 vuotta myöhemmin, avoin kokoelma sisältää kaikki sanoma- ja aikakauslehdet vuosilta 1771-1929.
 
 TIDEN-projekti rakensi pohjaa tulevien digitointiprojektien parhaille käytännöille. Sen keskeiset havainnot julkaistiin yhdessä The International Federation of Library Associations and Institutions (IFLA) -järjestön suositusten kanssa julkaisussa _Guidance on the Best Practices for Microfilming of Newspapers in Preparation for Possible Future Digitisation (2003)_. Suomen digitoitu kokoelma perustuu mikrofilmeihin ja siksi sekä alkuperäisen lehden laatu että filmauksen taso ovat olennaisia. Nykyistä kokoelmaa arvioitaessa tämä on syytä ottaa huomioon: se vaikuttaa siihen, miksi optisen tekstintunnistuksen laatu vaihtelee vuosikymmenittäin.
 
@@ -304,4 +304,3 @@ Pääkkönen, Tuula, Jukka Kervinen, Asko Nivala, Kimmo Kettunen and Eetu Mäkel
 Vesanto, Aleksi, Asko Nivala, Heli Rantala, Tapio Salakoski, Hannu Salmi and Filip Ginter, ’Applying BLAST to Text Reuse Detection in Finnish Newspapers and Journals, 1771-1910’, _Proceedings of the 21st Nordic Conference of Computational Linguistics_. Gothenburg, Sweden, 23-24 May 2017 (Linköping 2017): 54-58, [http://www.ep.liu.se/ecp/133/010/ecp17133010.pdf](http://www.ep.liu.se/ecp/133/010/ecp17133010.pdf)
 
 Vesanto, Aleksi, Asko Nivala, Tapio Salakoski, Hannu Salmi ja Filip Ginter, ’A System for Identifying and Exploring Text Repetition in Large Historical Document Corpora’, _Proceedings of the 21st Nordic Conference of Computational Linguistics_. Gothenburg, Sweden, 23-24 May 2017 (Linköping 2017): 330-333, [http://www.ep.liu.se/ecp/131/049/ecp17131049.pdf](http://www.ep.liu.se/ecp/131/049/ecp17131049.pdf)
-
