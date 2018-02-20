@@ -4,8 +4,6 @@ title: Digitized Newspapers at the National Library of Finland, Suomen kansallis
 tags: [dh, DiD, data reports]
 author: Mila Oiva, Hannu Salmi, and Asko Nivala
 ---
-
-# Digitized Newspapers at the National Library of Finland 
 _Report also available in [Suomi](#suomi)_
 
 The digital collection of the National Library of Finland includes 12.8 million pages of newspapers and journals. Only the newspapers published before 1930 are freely available online at the website of the Library. The collection includes all published newspapers and journals, from the first newspaper _Tidningar Utgifne af et Sällskap i Åbo_, founded in 1771, until the end of the year 1929. The extent of the collection is as follows (as of 19 February 2018):
