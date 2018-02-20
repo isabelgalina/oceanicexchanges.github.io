@@ -37,9 +37,7 @@ The journal data is more varied in terms of languages. Out of the 1,147,791 page
 The data collected for Oceanic Exchanges include: 
 
 1. _The Newspaper and Periodical OCR Corpus of the National Library of Finland (1771-1874)_ was released in 2011. The data package is in the METS/ALTO format and downloadable via the [Language Bank of Finland](http://urn.fi/urn:nbn:fi:lb-2015051201). It has been released under the Creative Commons license (CC BY 4.0).
-
 2. The data package 1771-1910 has been provided by the National Library of Finland to the project _Computational History and the Transformation of Public Discourse in Finland, 1640-1910 (COMHIS)_, and it is already at the disposal of the Finnish team of the Oceanic Exchanges project. This data package is not openly available, but there are no legal restrictions concerning the usage of the data for the purpose of research. The [COMHIS project](http://comhis.fi/clusters) has studied text reuse in Finnish newspapers and journals between 1771-1910.
-
 3. The _Newspaper and Periodical OCR Corpus of the National Library of Finland (1875-1920)_ was released in November 2017. The data package is downloadable via the [Language Bank of Finland](http://urn.fi/urn:nbn:fi:lb-201801191). The data dump includes all those newspapers and journals that had been digitized by the end of the year 2013. This includes all published newspapers 1875-1920. Some journals, published in the 1910s and digitized after 2013 are still missing but they can be accessed at the searchable online collection which is constantly updated. More details on the license (CLARIN ACA end-user license +NC 1.0) can be found at [https://www.kielipankki.fi/lic/digilib-1920-dl/](https://www.kielipankki.fi/lic/digilib-1920-dl/).
  
 ## Metadata Structure
@@ -53,7 +51,7 @@ In the data packages, pages are located in two separate directories: one based o
 ### Metadata in the data package 1771-1874
 The data package 1771-1874 includes ALTO files and metadata in METS format. As an example:
 
-```
+```xml
 <dmdSec ID="MODSMD_CHAP2">
             	<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of chapter 0">
                     	<xmlData>
@@ -80,7 +78,7 @@ The data package 1771-1874 includes ALTO files and metadata in METS format. As a
 ### Metadata in the data package 1771-1910
 The data package for 1771-1910 includes ALTO files but no METS. Metadata has been included in the beginning of the files in XML format. Example:
 
-```
+```xml
 <metadata>
    	<title>Kirkollinen kuukauslehti : uskonnollista lukemista perheille</title>
    	<identifier type="nbn">fk00873</identifier>
@@ -109,7 +107,7 @@ The data package for 1771-1910 includes ALTO files but no METS. Metadata has bee
 ### Metadata in the data package 1875-1920
 The metadata of the collection for years 1875-1920 is in ALTO/METS format. For instance: 
 
-```
+```xml
 <mets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/METS/" xsi:schemaLocation="http://www.loc.gov/METS/ //Themis/docworks/docWORKS/schema/mets-metae.xsd" xmlns:MODS="http://www.loc.gov/mods/v3" xmlns:mix="http://www.loc.gov/mix/" xmlns:xlink="http://www.w3.org/TR/xlink" TYPE="METAe_Serial" LABEL="Finsk Tidskrift no. 1-2 01.1911">
 <metsHdr CREATEDATE="2007-03-27T10:35:59" LASTMODDATE="2007-03-27T10:35:59">
 <agent ROLE="CREATOR" TYPE="OTHER" OTHERTYPE="SOFTWARE">
@@ -135,9 +133,10 @@ The metadata of the collection for years 1875-1920 is in ALTO/METS format. For i
 </xmlData>
 </mdWrap>
 </dmdSec>
- ```
+```
 
- ## Collection History
+## Collection History
+
 In Finland, the digitization of cultural heritage started in the mid 1990s. From the perspective of newspaper collections, an essential turning point was the launching of the Nordic project TIDEN in 1998. It was a joint project of four institutions: the Royal Library of Sweden, The National Library of Norway, the University Library of Århus (Denmark), and the Helsinki University Library which was the coordinator of the project. The Helsinki University Library had established the Center for Microfilming and Conservation already in 1990, in the small town of Mikkeli in Eastern Finland, with the idea of creating a comprehensive microfilm collection of Finnish newspapers and journals. Soon, it became obvious that digitization would be more fruitful for developing research infrastructures, and the TIDEN project gave the possibility to concentrate on exploring the problems of digitization but also in producing actual digital copies of Finnish newspapers, mostly on the basis of previously produced microfilms. Today, the Mikkeli center is known as the Centre for Preservation and Digitisation, which is part of the National Library of Finland.
 
 In 2001, the National Library of Finland finally opened its [online collection of digitized newspapers](http://digi.lib.helsinki.fi/). It was announced that all Finnish newspapers from 1771 to 1860 will be digitized and made openly available in the net. It was estimated that, in the end, the collection would cover 44 different titles and 90,000 pages. At the time of the launching of the website in 2001, only one third, in sum 36,000 pages was available. This was the start, and now, after 17 years, the open collection includes all newspapers and journals from 1771 to 1929.
@@ -177,9 +176,7 @@ Digitoitujen sanoma- ja aikakauslehtien kokoelmaa voi avoimesti selata, ja siihe
 Seuraavat aineistopaketit ovat tutkimuskäyttöä varten:
 
 1. _The Newspaper and Periodical OCR Corpus of the National Library of Finland (1771-1874)_ julkaistiin vuonna 2011. Datadump on ladattavissa METS/ALTO-muodossa Kielipankin kautta osoitteesta [http://urn.fi/urn:nbn:fi:lb-2015051201](http://urn.fi/urn:nbn:fi:lb-2015051201). Aineiston käyttöoikeudet on määritelty Creative Commons (CC BY 4.0).
-
 2. Vuosien 1771-1910 datadump on saatu Kansalliskirjastosta _Computational History and the Transformation of Public Discourse in Finland, 1640-1910_ (COMHIS) -projektin käyttöön, ja se on myös _Oceanic Exchanges_ -hankkeen käytössä. Sen käyttöoikeudet on määritelty samoin kuin vuosien 1771-1874 aineiston. COMHIS-projektissa tutkimme tekstin uudelleenkäyttöä suomalaisessa sanoma- ja aikakauslehdistössä vuosina 1771-1910. Tämän projektin tulokset ovat selattavissa osoitteessa [http://comhis.fi/clusters](http://comhis.fi/clusters).
-
 3. _The Newspaper and Periodical OCR Corpus of the National Library of Finland (1875-1920)_ julkaistiin marraskuussa 2017. Datadump on ladattavissa Kielipankin kautta osoitteesta [http://urn.fi/urn:nbn:fi:lb-201801191](http://urn.fi/urn:nbn:fi:lb-201801191). Datadump sisältää kaikki ne sanoma- ja aikakauslehdet, jotka oli digitoituna vuoden 2013 loppuun mennessä. Sanomalehtien osalta kokoelma on kattava, mutta aikakauslehtiä on digitoitu lisää vuoden 2013 jälkeen. Tämä uusin aineisto löytyy Kansalliskirjaston digikokoelmasta, mutta ei vielä datadumpista. Aineiston käyttöoikeuksista (CLARIN ACA end-user license +NC 1.0) löytyy lisätietoja osoitteesta [https://www.kielipankki.fi/lic/digilib-1920-dl/](https://www.kielipankki.fi/lic/digilib-1920-dl/).
 
 ## Metadatan rakenne
@@ -193,7 +190,7 @@ Kaikki sivut ovat kahdessa erillisessä hakemistossa, joista toinen pohjautuu IS
 ### Metadata 1771-1874
 Kokoelman 1771-1874 metatiedot sisältävät tietoa muun muassa sanomalehtiartikkeleista ja muista sisäisistä segmenteistä. Datadump sisältää ALTO-tiedostot ja metatiedot METS-muodossa. Tässä esimerkki metadatasta: 
 
-```
+```xml
 <dmdSec ID="MODSMD_CHAP2">
             	<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of chapter 0">
                     	<xmlData>
@@ -218,9 +215,10 @@ Kokoelman 1771-1874 metatiedot sisältävät tietoa muun muassa sanomalehtiartik
 ```
 
 ### Metadata 1771-1910
+
 Vuosien 1771-1910 datadump sisältää ALTO-tiedostot. Metatiedot löytyvät tiedostojen alusta XML-muodossa. Tässä esimerkki: 
 
-```
+```xml
 <metadata>
    	<title>Kirkollinen kuukauslehti : uskonnollista lukemista perheille</title>
    	<identifier type="nbn">fk00873</identifier>
@@ -245,10 +243,12 @@ Vuosien 1771-1910 datadump sisältää ALTO-tiedostot. Metatiedot löytyvät tie
    	<lastModified>2012-04-12T00:04:00</lastModified>
    </metadata>
 ```
+
 ### Metadata 1875-1920
+
 Kokoelman 1875-1920 metatiedot noudattavat ALTO/METS-standardia. Tässä esimerkki metadatasta:
 
-```
+```xml
 <mets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/METS/" xsi:schemaLocation="http://www.loc.gov/METS/ //Themis/docworks/docWORKS/schema/mets-metae.xsd" xmlns:MODS="http://www.loc.gov/mods/v3" xmlns:mix="http://www.loc.gov/mix/" xmlns:xlink="http://www.w3.org/TR/xlink" TYPE="METAe_Serial" LABEL="Finsk Tidskrift no. 1-2 01.1911">
 <metsHdr CREATEDATE="2007-03-27T10:35:59" LASTMODDATE="2007-03-27T10:35:59">
 <agent ROLE="CREATOR" TYPE="OTHER" OTHERTYPE="SOFTWARE">
