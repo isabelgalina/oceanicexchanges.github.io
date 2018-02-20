@@ -5,7 +5,8 @@ tags: [dh, DiD, data reports]
 author: Mila Oiva, Hannu Salmi, and Asko Nivala
 ---
 
-# Digitized Newspapers at the National Library of Finland ([Suomi](#suomi))
+# Digitized Newspapers at the National Library of Finland 
+Report also available in [Suomi](#suomi)
 
 The digital collection of the National Library of Finland includes 12.8 million pages of newspapers and journals. Only the newspapers published before 1930 are freely available online at the website of the Library. The collection includes all published newspapers and journals, from the first newspaper _Tidningar Utgifne af et Sällskap i Åbo_, founded in 1771, until the end of the year 1929. The extent of the collection is as follows (as of 19 February 2018):
 
@@ -143,7 +144,7 @@ In 2001, the National Library of Finland finally opened its [online collection o
 
 The TIDEN project was important in defining best practices for future digitization projects. Its main ideas were published together with the recommendations of The International Federation of Library Associations and Institutions (IFLA) in the publication _Guidance on the Best Practices for Microfilming of Newspapers in Preparation for Possible Future Digitisation_ (2003). In Finland, the digital collection is based on microfilms, which means that both the quality of the microfilm and the quality of the original newspaper are essential. In the present collection, the differences in quality have obviously had an impact on the accuracy of optical character recognition which varies from decade to decade.
 
-<a name="suomi"></a># Suomen kansalliskirjaston digitoidut sanomalehdet
+# <a name="suomi"></a>Suomen kansalliskirjaston digitoidut sanomalehdet
 
 Suomen kansalliskirjaston digitaalinen kokoelma sisältää 12,8 miljoonaa sivua sanoma- ja aikakauslehtiä. Tällä hetkellä lehtiä voi vuoden 1929 numeroihin asti lukea avoimesti kirjaston sivustolla. Kokoelma kattaa kaikki suomalaiset sanoma- ja aikakauslehdet, ensimmäisestä, vuonna 1771 perustetusta sanomalehdestä _Tidningar Utgifne af et Sällskap i Åbo_ lähtien vuoden 1929 loppuun. Kokoelmaa voi kuvata seuraavin luvuin (tilanne 19.2.2018):
 
