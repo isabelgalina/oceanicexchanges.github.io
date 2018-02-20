@@ -53,26 +53,26 @@ The data package 1771-1874 includes ALTO files and metadata in METS format. As a
 
 ```xml
 <dmdSec ID="MODSMD_CHAP2">
-            	<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of chapter 0">
-                    	<xmlData>
-                            	<MODS:mods>
-                                    	<MODS:titleInfo ID="MODSMD_CHAP2_TI2" xml:lang="fi">
-                                            	<MODS:title>Minkätähden Hüneburg ei antautunut.</MODS:title>
-                                    	</MODS:titleInfo>
-                                    	<MODS:name ID="MODSMD_CHAP2_N2" type="personal">
-                                            	<MODS:namePart type="given">A.</MODS:namePart>
-                                            	<MODS:namePart type="family">G</MODS:namePart>
-                                            	<MODS:role>
-                                                    	<MODS:roleTerm>aut</MODS:roleTerm>
-                                            	</MODS:role>
-                                    	</MODS:name>
-                                    	<MODS:language>
-                                            	<MODS:languageTerm type="code" authority="rfc3066">fi</MODS:languageTerm>
-                                    	</MODS:language>
-                            	</MODS:mods>
-                    	</xmlData>
-            	</mdWrap>
-    	</dmdSec>
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of chapter 0">
+        <xmlData>
+            <MODS:mods>
+                <MODS:titleInfo ID="MODSMD_CHAP2_TI2" xml:lang="fi">
+                    <MODS:title>Minkätähden Hüneburg ei antautunut.</MODS:title>
+                </MODS:titleInfo>
+                <MODS:name ID="MODSMD_CHAP2_N2" type="personal">
+                    <MODS:namePart type="given">A.</MODS:namePart>
+                    <MODS:namePart type="family">G</MODS:namePart>
+                    <MODS:role>
+                        <MODS:roleTerm>aut</MODS:roleTerm>
+                    </MODS:role>
+                </MODS:name>
+                <MODS:language>
+                    <MODS:languageTerm type="code" authority="rfc3066">fi</MODS:languageTerm>
+                    </MODS:language>
+            </MODS:mods>
+        </xmlData>
+    </mdWrap>
+</dmdSec>
 ```
 
 ### Metadata in the data package 1771-1910
