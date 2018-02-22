@@ -4,14 +4,14 @@ layout: base
 
 {% include header.html type="post" %}
 <!-- Look the author details up from the site config. -->
-{% assign author = site.data.authors[page.author] %}
+<!-- {% assign author = site.data.authors[page.author] %} -->
 
 <div class="container">
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 <!-- Output author details if some exist. -->
 	{% assign authors = post.author | split: ", " %}
-	<p class="post-author"><strong>Written by:
+	<p class="post-author"><strong>Written by:</strong>
 		{% for currentAuthor in authors %}
   		{% assign author = site.data.authors[currentAuthor] %}
   <a href="{{ author.web }}" target="_blank">{{ author.name }}</a></strong>{% unless forloop.last %}, {% endunless %}
