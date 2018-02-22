@@ -32,12 +32,28 @@ layout: base
 {% endif %} --> 
 
 <!-- Output author details if some exist. -->
-	{% if author %}
+	{% assign authorCount = page.author | size %}
+	{% if authorCount == 0 %}
+    	<strong>Written by Oceanic Exchanges Team</strong>
+    {% elsif authorCount == 1 %}
+    	{{ page.author | first }}
+    {% else %}
+    	{% for author in page.authors %}
+    		{% if forloop.first %}
+            <strong>Written by <a href="{{ author.web }}" target="_blank">{{ author.name }}</a></strong>
+        	{% elsif forloop.last %}
+            and <strong><a href="{{ author.web }}" target="_blank">{{ author.name }}</a></strong>
+        	{% else %}
+            <strong>, <a href="{{ author.web }}" target="_blank">{{ author.name }}</a></strong>
+        	{% endif %}
+    	{% endfor %}
+    
+	<!-- {% if author %}
    		<span>
         	<!-- Personal Info. -->
         	<strong>Written by <a href="{{ author.web }}" target="_blank">{{ author.name }}</a></strong>
     	</span>
-	{% endif %}
+	{% endif %} -->
 
       <article role="main" class="blog-post">
         {{ content }}
