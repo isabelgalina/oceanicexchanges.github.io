@@ -16,8 +16,8 @@ layout: base
 	{% assign authorCount = page.author | size %}
 	{% if authorCount == 0 %}
     	<strong>Written by Oceanic Exchanges Team</strong>
-    <!-- {% elsif authorCount == 1 %}
-    	{{ page.author | first }} -->
+    {% elsif authorCount == 1 %}
+    	{{ page.author | first }}
     {% else %}
     	{% for author in page.author %}
     		{% if forloop.first %}
