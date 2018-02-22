@@ -9,19 +9,19 @@ layout: base
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
     
     <!-- Look the author details up from the site config. -->
-{% assign author = site.data.authors[page.author] %}
+<!-- {% assign author = site.data.authors[page.author] %} -->
 
 <!-- attempt to implement multiple authors -->
 
-{% assign authorCount = author | size %}
+{% assign authorCount = site.data.authors[page.author] | size %}
 {% if authorCount == 0 %}
 	<span>
     <strong>Written by Oceanic Exchanges Team</strong>
     </span>
 {% elsif authorCount == 1 %}
-    {{ author | first }}
+    {{ site.data.authors[page.author] | first }}
 {% else %}
-    {% for author in author %}
+    {% for author in site.data.authors[page.author] %}
         {% if forloop.first %}
             <strong>Written by <a href="{{ author.web }}" target="_blank">{{ author.name }}</a></strong>
         {% elsif forloop.last %}
@@ -33,12 +33,12 @@ layout: base
 {% endif %}
 
 <!-- Output author details if some exist. -->
- <!--{% if author %}
+ <!-- {% if author %}
    <span>
         <!-- Personal Info. -->
         <strong>Written by <a href="{{ author.web }}" target="_blank">{{ author.name }}</a></strong>
     </span>
-{% endif %}-->
+{% endif %} -->
 
       <article role="main" class="blog-post">
         {{ content }}
