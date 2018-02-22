@@ -14,7 +14,7 @@ layout: base
 	<p class="post-author"><strong>Written by:</strong>
 		{% for currentAuthor in authors %}
   		{% assign author = site.data.authors[currentAuthor] %}
-  <a href="{{ author.web }}" target="_blank">{{ author.name }}</a></strong>{% unless forloop.last %}, {% endunless %}
+  <a href="{{ author.web }}" target="_blank"><strong>{{ author.name }}</a></strong>{% unless forloop.last %}, {% endunless %}
 		{% endfor %}
 	</p>
 
