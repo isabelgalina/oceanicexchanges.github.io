@@ -13,14 +13,15 @@ layout: base
 
 <!-- attempt to implement multiple authors -->
 
-{% assign authorCount = page.author | size %}
+{% assign authorCount = author | size %}
 {% if authorCount == 0 %}
 	<span>
     <strong>Written by Oceanic Exchanges Team</strong>
+    </span>
 {% elsif authorCount == 1 %}
-    {{ page.authors | first }}
+    {{ author | first }}
 {% else %}
-    {% for author in page.authors %}
+    {% for author in author %}
         {% if forloop.first %}
             <strong>Written by <a href="{{ author.web }}" target="_blank">{{ author.name }}</a></strong>
         {% elsif forloop.last %}
