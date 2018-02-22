@@ -10,11 +10,14 @@ layout: base
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 <!-- Output author details if some exist. -->
-		{% if author %}
-   			<span>
-        		<strong>Written by <a href="{{ author.web }}" target="_blank">{{ author.name }}</a></strong>
-				</span>
-		{% endif %}
+	{% assign authors = post.author | split: ", " %}
+	<p class="post-author"><strong>Written by:
+		{% for currentAuthor in authors %}
+  		{% assign author = site.data.authors[currentAuthor] %}
+  <a href="{{ author.web }}" target="_blank">{{ author.name }}</a></strong>{% unless forloop.last %}, {% endunless %}
+		{% endfor %}
+	</p>
+
     
       <article role="main" class="blog-post">
         {{ content }}
