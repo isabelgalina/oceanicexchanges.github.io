@@ -2,7 +2,7 @@
 layout: post
 title: Digitized Newspapers at the National Library of Finland, Suomen kansalliskirjaston digitoidut sanomalehdet
 tags: [dh, DiD, data reports]
-author: moiva, hsalmi, and anivala
+author: moiva, hsalmi, anivala
 ---
 _Report also available in [Suomi](#suomi)_
 
