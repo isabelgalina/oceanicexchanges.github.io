@@ -38,7 +38,7 @@ layout: base
     {% elsif authorCount == 1 %}
     	{{ page.author | first }}
     {% else %}
-    	{% for author in page.authors %}
+    	{% for author in page.author %}
     		{% if forloop.first %}
             <strong>Written by <a href="{{ author.web }}" target="_blank">{{ author.name }}</a></strong>
         	{% elsif forloop.last %}
