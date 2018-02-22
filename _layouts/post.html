@@ -11,13 +11,33 @@ layout: base
     <!-- Look the author details up from the site config. -->
 {% assign author = site.data.authors[page.author] %}
 
+<!-- attempt to implement multiple authors -->
+
+{% assign authorCount = page.author | size %}
+{% if authorCount == 0 %}
+	<span>
+    <strong>Written by Oceanic Exchanges Team</strong>
+{% elsif authorCount == 1 %}
+    {{ page.authors | first }}
+{% else %}
+    {% for author in page.authors %}
+        {% if forloop.first %}
+            <strong>Written by <a href="{{ author.web }}" target="_blank">{{ author.name }}</a></strong>
+        {% elsif forloop.last %}
+            and <strong>Written by <a href="{{ author.web }}" target="_blank">{{ author.name }}</a></strong>
+        {% else %}
+            , <strong>Written by <a href="{{ author.web }}" target="_blank">{{ author.name }}</a></strong>
+        {% endif %}
+    {% endfor %}
+{% endif %}
+
 <!-- Output author details if some exist. -->
-{% if author %}
-    <span>
+ <!--{% if author %}
+   <span>
         <!-- Personal Info. -->
         <strong>Written by <a href="{{ author.web }}" target="_blank">{{ author.name }}</a></strong>
     </span>
-{% endif %}
+{% endif %}-->
 
       <article role="main" class="blog-post">
         {{ content }}
