@@ -2,7 +2,7 @@
 layout: post
 title: Digitized Newspapers at the National Library of Finland, Suomen kansalliskirjaston digitoidut sanomalehdet
 tags: [dh, DiD, data reports]
-author: Mila Oiva, Hannu Salmi, and Asko Nivala
+author: moiva, hsalmi, and anivala
 ---
 _Report also available in [Suomi](#suomi)_
 

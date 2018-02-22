@@ -2,7 +2,7 @@
 layout: post
 title: British Library 19th-Century Newspapers
 tags: [dh, DiD, data reports]
-author: Melodee Beals, Paul Fyfe
+author: mhbeals, pfyfe
 ---
  
 Building upon [previous projects](#Related), *Oceanic Exchanges* is using approximately 3 million pages of nineteenth-century newspapers from the British Library to better understand the structure of digitised newspaper collections and the spread of texts and ideas across global information networks. Although the British Library’s physical collections of historical newspapers are far more extensive, these newspapers were selected for digitisation to provide a representative sample of the wider collection, covering the metropolitan and provincial press, ranging in political and geographical coverage, and representing both English- and Welsh-language titles. The library has and continues to grow its digital newspaper collections in stages; OcEx uses XML data from the first two of these stages, known as “[Part I](https://www.gale.com/c/british-library-newspapers-part-i)” and “[Part II](https://www.gale.com/c/british-library-newspapers-part-ii)”.

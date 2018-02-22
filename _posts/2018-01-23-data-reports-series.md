@@ -2,7 +2,7 @@
 layout: post
 title: Data Reports Series Introduction
 tags: [dh, DiD, data reports]
-author: Melodee Beals, Paul Fyfe, Hannu Salmi, Clemens Neudecker, Isabel Galina Russell, Adán Lerma, Hanneke Takken
+author: mhbeals, pfyfe, hsalmi, cneudecker, igalina, alerma, htakken
 ---
 
 [English](#English) | [Suomi](#Suomi) | [Deutsch](#Deutsch) | [Español](#Español) | [Nederlands](#Nederlands)
