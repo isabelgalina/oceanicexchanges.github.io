@@ -13,22 +13,11 @@ layout: base
 
 
 <!-- Output author details if some exist. -->
-	{% assign authorCount = page.author | size %}
-	{% if authorCount == 0 %}
-    	<strong>Written by Oceanic Exchanges Team</strong>
-    {% elsif authorCount == 1 %}
-    	{{ page.author | first }}
-    {% else %}
-    	{% for author in page.author %}
-    		{% if forloop.first %}
-            <strong>Written by <a href="{{ author.web }}" target="_blank">{{ author.name }}</a></strong>
-        	{% elsif forloop.last %}
-            and <strong><a href="{{ author.web }}" target="_blank">{{ author.name }}</a></strong>
-        	{% else %}
-            <strong>, <a href="{{ author.web }}" target="_blank">{{ author.name }}</a></strong>
-        	{% endif %}
-    	{% endfor %}
-    {% endif %}
+	{% if author %}
+   		<span>
+        	<strong>Written by <a href="{{ author.web }}" target="_blank">{{ author.name }}</a></strong>
+    	</span>
+	{% endif %}
     
       <article role="main" class="blog-post">
         {{ content }}
