@@ -25,11 +25,11 @@ igalina:
     web: http://bnm.unam.mx/index.php/quienes-somos/directorio/investigadores/galina-russell-isabel
 alerma:
     name:  Adán Lerma 
-    email: 
+    email: adan.lerma@gmail.com
     web: 
 htakken:
     name: Hanneke Takken
-    email: 
+    email: a.j.takken@gmail.com
     web: https://www.uu.nl/medewerkers/HTakken/0
 moiva:
     name: Mila Oiva
@@ -39,3 +39,7 @@ anivala:
     name: Asko Nivala
     email: aeniva@utu.fi
     web: https://askonivala.github.io
+lrose:
+    name: Lara Rose
+    email: roberts.l@husky.neu.edu
+    web: lararoses.org
