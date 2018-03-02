@@ -31,12 +31,20 @@ Oceanic Exchanges brings together a consortium of cultural historians, computati
 
 + **Isabel Galina Russell (Co-PI)** - Full-time Researcher, *Universidad Nacional Autónoma de México*
 + **Ernesto Priani Siasó (Co-PI)** - Professor, Faculty of Philosophy and Letters, *Universidad Nacional Autónoma de México*
++ **Miriam Peña Pimentel** - Postdoctoral Researcher, *Universidad Nacional Autónoma de México*
++ **Adan Lerma** - PhD Student, *Universidad Nacional Autónoma de México*
++ **Rocío Castellanos Rueda** - Postdoctoral Researcher, *Universidad Nacional Autónoma de México*
++ **Angélica Estefanía González Manzo** - Student, *Universidad Nacional Autónoma de México*
++ **Laura Angélica López Méndez** - Student, *Universidad Nacional Autónoma de México*
++ **Juan Manuel Rodríguez Martínez** - Student, *Universidad Nacional Autónoma de México*
 
 -----
 
 ### Nederland - funded by Nederlandse Organisatie voor Wetenschappelijk Onderzoek (NWO)
 
 + **Jaap Verheul (PI)** - Associate Professor of Cultural History, *Universiteit Utrecht*
++ **Lorella Viola** - Postdoctoral Researcher, *Universiteit Utrecht*
++ **Hanneke Takken** - Postdoctoral Researcher, *Universiteit Utrecht*
 
 -----
 
@@ -57,6 +65,8 @@ Oceanic Exchanges brings together a consortium of cultural historians, computati
 + **James Hetherington** - Head of Research Software Development for High-Processing Computing in Research IT Services, *University College London*
 + **Raquel Alegre** - Research Software Developer for High-Processing Computing in Research IT Services, *University College London*
 + **Tessa Hauswedell** - Teaching Fellow, *University College London*
++ **Roma Klapaukh** - Research Software Developer for Research IT Services (High Processing Computing), *University College London*
++ **Olivia Mitchell** - Post-Graduate Researcher, *Loughborough University*
 
 -----
 
@@ -68,6 +78,9 @@ Oceanic Exchanges brings together a consortium of cultural historians, computati
 + **Elizabeth Lorang** - Associate Professor of Libraries and Humanities Librarian, *University of Nebraska-Lincoln*
 + **Leen-Kiat Soh** - Associate Professor with the Department of Computer Science and Engineering, *University of Nebraska-Lincoln*
 + **Lara Rose** - PhD Student, *Northeastern University*
++ **Chulwoo (Mike) Pack** - PhD Student, *University of Nebraska-Lincoln*
++ **Ye Liu** - PhD Student, *North Carolina State University*
++ **Jamie Parker** - PhD Candidate, *Northeastern University*
 
 -----
 
