@@ -2,10 +2,9 @@
 layout: post
 title: German Newspapers in Europeana and the Bavarian State Library (digiPress), Deutschsprachige Zeitungen in Europeana und der Bayerischen Staatsbibliothek
 tags: [dh, DiD, data reports]
-author: Jana Keck, Clemens Neudecker
+author: jkeck, cneudecker
 ---
 
-# German Newspapers in Europeana and the Bavarian State Library (digiPress)
 _Report also available in [deutsch](#deutsch)_
 
 ## 1. Europeana
@@ -62,12 +61,14 @@ In addition, Europeana Metadata has also been released in the following five for
 
 The Europeana Newspapers data was collected, processed with OCR/OLR and subsequently published with a common full-text search and presentation environment during the EU-funded Europeana Newspapers project (2012-2015). For more information, please see the [project outputs](http://www.europeana-newspapers.eu/public-materials/deliverables/) and [Final Report](http://europeananewspapers.github.io/).
 
-Following the closing of the TEL service end of 2016, work is currently underway to migrate the collection to a "thematic collection" subsite of the main Europeana platform with an anticipated re-launch in Q2/2018.
+
+Following the closing of the TEL service end of 2016, work is currently underway to migrate the collection to a "thematic collection" subsite of the main Europeana platform with an anticipated re-launch in Q2/2018.
 
 ### Sources
 For a list of project outputs, see [http://www.europeana-newspapers.eu/public-materials/deliverables/](http://www.europeana-newspapers.eu/public-materials/deliverables/).
 For a list of publications from the project, see [http://www.europeana-newspapers.eu/public-materials/publications/](http://www.europeana-newspapers.eu/public-materials/publications/).
-For a review of the Europeana Newspapers portal by Dr. Bob Nicholson, see[http://www.history.ac.uk/reviews/review/1894](http://www.history.ac.uk/reviews/review/1894).
+For a review of the Europeana Newspapers portal by Dr. Bob Nicholson, see
+[http://www.history.ac.uk/reviews/review/1894](http://www.history.ac.uk/reviews/review/1894).
 
 **2. digiPress**
 
@@ -177,12 +178,14 @@ Darüber hinaus wurde Europeana Metadata auch in den folgenden fünf Formaten ve
 
 Die Daten von Europeana Newspapers wurden während des EU-finanzierten Projekts Europeana Newspapers (2012-2015) gesammelt, mit OCR / OLR verarbeitet und anschließend in einer gemeinsamen Volltextsuch- und Präsentationsumgebung veröffentlicht. Weitere Informationen finden Sie in den Projektausgaben ([http://www.europeana-newspapers.eu/public-materials/deliverables/](http://www.europeana-newspapers.eu/public-materials/deliverables/)) und im Abschlussbericht ([http://europeananewspapers.github.io/](http://europeananewspapers.github.io/)).
 
-Nach Abschluss des TEL-Dienstes Ende 2016 wird derzeit daran gearbeitet, die Sammlung in einen "thematischen Sammlungsbereich" der Hauptplattform Europeana zu migrieren, mit einem erwarteten Relaunch in Q2 / 2018.
+
+Nach Abschluss des TEL-Dienstes Ende 2016 wird derzeit daran gearbeitet, die Sammlung in einen "thematischen Sammlungsbereich" der Hauptplattform Europeana zu migrieren, mit einem erwarteten Relaunch in Q2 / 2018.
 
 ### Quellen
 * Einen Überlick der Projekte finden Sie unter [http://www.europeana-newspapers.eu/public-materials/deliverables/](http://www.europeana-newspapers.eu/public-materials/deliverables/)
 * Eine Liste der Veröffentlichungen des Projekts finden Sie unter [http://www.europeana-newspapers.eu/public-materials/publications/](http://www.europeana-newspapers.eu/public-materials/publications/)
-* Einen Überblick über das Portal Europeana Newspapers von Dr. Bob Nicholson finden Sie unter[http://www.history.ac.uk/reviews/review/1894](http://www.history.ac.uk/reviews/review/1894)
+* Einen Überblick über das Portal Europeana Newspapers von Dr. Bob Nicholson finden Sie unter
+[http://www.history.ac.uk/reviews/review/1894](http://www.history.ac.uk/reviews/review/1894)
 
 ## 2. digiPress
 
