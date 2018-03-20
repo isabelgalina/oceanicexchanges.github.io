@@ -11,7 +11,7 @@ _Report also available in [Español](#espanol)_
 ## Data quantity
 The Hemeroteca Nacional Digital de México is the Digital National Newspaper Library of Mexico.  The HNDM consists of 7 million Mexican newspaper pages from 1722 to 2006 from all Mexican states. 
 
-* Total number of titles: 941 
+* Total number of titles: 941
 * Number of open-access titles: 516
 * Number of restricted access titles: 425
 
@@ -80,7 +80,7 @@ In total, 947 Mexican and foreign publication titles between 1722 to 2010 were d
 ## Cantidad de datos
 La colección de la Hemeroteca Nacional incluye 7 millones de páginas de periódicos mexicanos de 1722 a 2006 de todos los estados de la república mexicana. 
 
-* Total de títulos: 941 
+* Total de títulos: 941
 * Total de títulos acceso abierto: 516
 * Total de títulos de acceso restringido: 425
 
