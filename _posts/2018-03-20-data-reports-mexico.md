@@ -47,17 +47,17 @@ The files are currently handled by a database in MongoDB version 3.6 which uses 
 
 | Entity / Class                | Fields / Attributed                                                                                                                                                                                                                                                                                                            |
 |-------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Publication                   | ID Titulo Subtitulo TotalItems TipoAcceso Estatus Idioma País Estado Ciudad Frecuencia TipoPublicacion fechaInicio fechaFinalizo fechaDeRegistro fechaDeModificacion colecciones_id totalImagenesActual PrimerPaginaDePublicacion_id Fecha totalArchivosXML                                                                    |
-| Item                          | _id publicacion_id anio mes dia colecciones_id totalPaginas estatusProceso estatus fechaDeRegistro fechaDeModificacion tipoAcceso                                                                                                                                                                                              |
-| Página                        | _id titulo subtitulo item_id publicacion_id colecciones_id tipoAcceso estatus idioma país estado ciudad frecuencia tipoPublicacion fecha fechaDeRegistro fechaDeModificacion pagina paginaAnterior_id paginaSiguiente_id imagen rutaImagen tipoDeArchivo espacioDeColor tamanioArchivo resolucion rutaXML totalPalabrasOCR ocr |
-| Colección                     | _id nombre descripción nombreCorto tipoAsignacion tipoElemento criterios estatus pagina Representativa_id fechaInicioApertura fechaInicioCierre elementosAsignados elementoAsignado.tipo elementoAsignado.Id                                                                                                                   |
-| Descripción de la publicación | _id publicacion_id publicacionTitulo tipoAcceso Estatus texto textoOriginal primerPaginaDePublicacion_id coleccion_id versionTextoOriginal carpetaAnterior                                                                                                                                                                     |
+| Publication                   | ID, Titulo, Subtitulo, TotalItems, TipoAcceso, Estatus, Idioma, País, Estado, Ciudad, Frecuencia, TipoPublicacion, fechaInicio, fechaFinalizo, fechaDeRegistro, fechaDeModificacion, colecciones_id, totalImagenesActual, PrimerPaginaDePublicacion_id, Fecha, totalArchivosXML                                                                    |
+| Item                          |id, publicacion_id, anio, mes, dia, colecciones_id, totalPaginas, estatusProceso, estatus, fechaDeRegistro, fechaDeModificacion, tipoAcceso                                                                                                                                                                                              |
+| Página                        |id, titulo, subtitulo, item_id, publicacion_id, colecciones_id, tipoAcceso, estatus, idioma, país, estado, ciudad, frecuencia, tipoPublicacion, fecha, fechaDeRegistro, fechaDeModificacion, pagina, paginaAnterior_id, paginaSiguiente_id, imagen, rutaImagen, tipoDeArchivo, espacioDeColor, tamanioArchivo, resolucion, rutaXML, totalPalabrasOCR, ocr |
+| Colección                     |id, nombre, descripción, nombreCorto, tipoAsignacion, tipoElemento, criterios, estatus, pagina, Representativa_id, fechaInicioApertura, fechaInicioCierre, elementosAsignados, elementoAsignado.tipo, elementoAsignado.Id                                                                                                                   |
+| Descripción de la publicación |id, publicacion_id, publicacionTitulo, tipoAcceso, Estatus, texto, textoOriginal, primerPaginaDePublicacion_id, coleccion_id, versionTextoOriginal, carpetaAnterior                                                                                                                                                                     |
 
 ## Data Availability & Legal Restrictions Concerning the Data
 Newspaper titles from 1722 to 1889 are in open access. 
 1890 to 2006 can only be consulted within the National Library controlled by IP address. 
 
-##Collection History
+## Collection History
 
 The National Newspaper Library of Mexico (Hemeroteca Nacional de México - HN) was created in 1944 to curate the newspaper collections of the National Library of Mexico (Biblioteca Nacional de México – BM) which was founded in 1867. In 1929, by federal mandate the custody of the National Library of Mexico was transferred from the Ministry of Public Education (Secretaría de Educación Pública) to the National University of Mexico (Universidad Nacional Autónoma de México – UNAM). In 1936 a legal deposit decree established that publishers in the country should deposit two copies of every book, newspaper, and magazine in the National Library. (Hemerotéca Nacional de México; 2017)
 
@@ -126,11 +126,11 @@ Estos archivos actualmente se encuentran cargados en una Base de Datos en MongoD
 
 | Entity / Class                | Fields / Attributed                                                                                                                                                                                                                                                                                                            |
 |-------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Publication                   | ID Titulo Subtitulo TotalItems TipoAcceso Estatus Idioma País Estado Ciudad Frecuencia TipoPublicacion fechaInicio fechaFinalizo fechaDeRegistro fechaDeModificacion colecciones_id totalImagenesActual PrimerPaginaDePublicacion_id Fecha totalArchivosXML                                                                    |
-| Item                          | _id publicacion_id anio mes dia colecciones_id totalPaginas estatusProceso estatus fechaDeRegistro fechaDeModificacion tipoAcceso                                                                                                                                                                                              |
-| Página                        | _id titulo subtitulo item_id publicacion_id colecciones_id tipoAcceso estatus idioma país estado ciudad frecuencia tipoPublicacion fecha fechaDeRegistro fechaDeModificacion pagina paginaAnterior_id paginaSiguiente_id imagen rutaImagen tipoDeArchivo espacioDeColor tamanioArchivo resolucion rutaXML totalPalabrasOCR ocr |
-| Colección                     | _id nombre descripción nombreCorto tipoAsignacion tipoElemento criterios estatus pagina Representativa_id fechaInicioApertura fechaInicioCierre elementosAsignados elementoAsignado.tipo elementoAsignado.Id                                                                                                                   |
-| Descripción de la publicación | _id publicacion_id publicacionTitulo tipoAcceso Estatus texto textoOriginal primerPaginaDePublicacion_id coleccion_id versionTextoOriginal carpetaAnterior                                                                                                                                                                     |
+| Publication                   | ID, Titulo, Subtitulo, TotalItems, TipoAcceso, Estatus, Idioma, País, Estado, Ciudad, Frecuencia, TipoPublicacion, fechaInicio, fechaFinalizo, fechaDeRegistro, fechaDeModificacion, colecciones_id, totalImagenesActual, PrimerPaginaDePublicacion_id, Fecha, totalArchivosXML                                                                    |
+| Item                          |id, publicacion_id, anio, mes, dia, colecciones_id, totalPaginas, estatusProceso, estatus, fechaDeRegistro, fechaDeModificacion, tipoAcceso                                                                                                                                                                                              |
+| Página                        |id, titulo, subtitulo, item_id, publicacion_id, colecciones_id, tipoAcceso, estatus, idioma, país, estado, ciudad, frecuencia, tipoPublicacion, fecha, fechaDeRegistro, fechaDeModificacion, pagina, paginaAnterior_id, paginaSiguiente_id, imagen, rutaImagen, tipoDeArchivo, espacioDeColor, tamanioArchivo, resolucion, rutaXML, totalPalabrasOCR, ocr |
+| Colección                     |id, nombre, descripción, nombreCorto, tipoAsignacion, tipoElemento, criterios, estatus, pagina, Representativa_id, fechaInicioApertura, fechaInicioCierre, elementosAsignados, elementoAsignado.tipo, elementoAsignado.Id                                                                                                                   |
+| Descripción de la publicación |id, publicacion_id, publicacionTitulo, tipoAcceso, Estatus, texto, textoOriginal, primerPaginaDePublicacion_id, coleccion_id, versionTextoOriginal, carpetaAnterior                                                                                                                                                                     |
 
 ## Disponibilidad y restricciones legales
 
@@ -151,43 +151,3 @@ Hacia finales de los años noventa se empezó a explorar las posibilidades de la
 2. Curiel, G., & Jimenez, R. J. (2015). Diez años de la Hemeroteca Nacional Digital de México. Breve reseña de una larga gestión de preservación y acceso, 2002-2012. En _I Textos, pixeles y bits: Reflexiones sobre la publicación digital_. Recuperado diciembre 19, 2017, de  http://www.hndm.unam.mx/files/acerca-de-hndm/diez-anios-de-[http://www.hndm.unam.mx/files/acerca-de-hndm/diez-anios-de-la-hemeroteca-nacional-digital-de-mexico.pdf](la-hemeroteca-nacional-digital-de-mexico.pdf)
 3. Información obtenida del Documento “Revisión del Sistema de Consulta y Gestión de la Hemeroteca Nacional Digital de México”. Generado en 2012 por la Dirección General de Cómputo y de Tecnologías de Información y Comunicación de la UNAM.
 4. Diccionario de Datos del Diagrama Entidad Relación de la HNDM.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[1] Hemeroteca Nacional, Departamentos. Consultado en http://www.hnm.unam.mx/index.php/hemeroteca-nacional-de-mexico/departamentos
-[2] Curiel Defossé, Guadalupe, Jiménez Rivera, Ricardo. Diez años de la Hemeroteca Nacional Digital de México (HNDM) Breve reseña de una larga gestión de preservación y acceso, 2002-2012, p, 4. http://www.hndm.unam.mx/files/acerca-de-hndm/diez-anios-de-la-hemeroteca-nacional-digital-de-mexico.pdf
-
-[3] Hemeroteca Nacional Digital de México. Acerca de HNDM, en  http://www.hndm.unam.mx/index.php/es/acerca-de-hndm (también lo señala el texto antes citado en su página 9).
-[4] Hemeroteca Nacional Digital de México. Fondos, en http://www.hnm.unam.mx/index.php/hemeroteca-nacional-de-mexico/colecciones/fondo-reservado/hemeroteca-nacional-digital-mexico
-
-
