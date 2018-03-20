@@ -24,7 +24,7 @@ Newspapers for the HNDM were scanned from microfilm. The microfilm was in 35mm f
 
 Bi-tonal TIFF images at 300 dpi. OCR is contained in XML files.  The OCR quality of the collection derived from a sample study is 54%.  Image legibility is 72.16% good, 14.77% regular and 13.07% bad. Image quality is: 56.14% good, 34.01% regular and 9.85% bad.
 
-## Metadata/Metadatos
+## Metadata
 
 The collection includes three levels of metadata. Dublin Core is shown below: 
 
